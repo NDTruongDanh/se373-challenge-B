@@ -9,6 +9,9 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 ROOT = Path(__file__).resolve().parents[1]
+REPO_ROOT = Path(__file__).resolve().parents[2]
+# Shared env lives at repo root (also usable by B2); B1-local .env still wins if present.
+load_dotenv(REPO_ROOT / ".env")
 load_dotenv(ROOT / ".env")
 
 # Direct Go inference endpoint (per https://opencode.ai/docs/go/#endpoints).

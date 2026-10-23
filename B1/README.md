@@ -16,16 +16,15 @@ while raw logs stay out of the context.
 ```
 B1/
 ├── pyproject.toml        deps (langgraph, langchain-openai, tiktoken, dotenv) + uv venv
-├── .example.env          env template (empty values) — copy to .env and fill in
-├── .env                  local env (gitignored; holds OPENCODE_API_KEY + OPENAI_BASE_URL)
 ├── .gitignore            .venv, __pycache__, .env, archive/
+(no local .env here — shared env lives at repo root: ../.env, template ../.example.env)
 ├── generate_logs.py      builds the synthetic fixture in ../logs/ (shared with B2)
 ├── dummy_app/
 │   ├── session.py        buggy SessionStore: refresh() does read-modify-write
 │   │                     WITHOUT holding the lock → concurrent refresh issues 2 tokens
 │   └── auth.py           thin login()/refresh_token() wrapper (API must stay backward compatible)
 ├── src/
-│   ├── config.py         loads .env, resolves API key / base URL / models / TOKEN_BUDGET
+│   ├── config.py         loads ../.env (repo root, shared with B2), resolves API key / base URL / models / TOKEN_BUDGET
 │   ├── tools.py          3 tools that deliberately produce tool-output bloat:
 │   │                     read_log, grep_logs, run_tests_sim (+ RAW_CHAR_COUNTER)
 │   ├── compaction.py     the compaction pipeline (see below)
@@ -56,7 +55,7 @@ The ground truth buried in the logs (what a correct checkpoint must contain):
 cd B1
 uv venv
 uv sync
-copy .example.env .env   # then paste your key (in this environment .env is pre-filled)
+copy ..\.example.env ..\.env   # shared env at repo root (template: ..\.example.env), then paste your key (pre-filled in this environment)
 uv run python generate_logs.py   # regenerates ../logs/
 ```
 
@@ -148,11 +147,3 @@ not to re-read raw logs.
 | Reduction              | **99.7–99.8%**                                  |
 | Checkpoint path        | `via=llm` with key, `via=heuristic` without     |
 | Post-compact quiz      | error ✅ / tried ✅ / next ✅, no raw leak ✅   |
-
-## Slide map (where each requirement lives in code)
-
-- Slide 19 (tool-output bloat): `src/tools.py`, `generate_logs.py`
-- Slide 22 (structured checkpoint schema): `CHECKPOINT_FIELDS`, `COMPACT_INSTRUCTION`, `checkpoint.md`
-- Slide 23 (selective KEEP/TRUNCATE/DROP): `prune_notes()`, `truncate_block()`, tail handling in `compact_messages()`
-- Slide 26 (compaction pipeline): `compact_messages()` + `compact_node` in `agent_graph.py`
-- Slides 32–33 (B1 task, trigger, measure via usage): `TOKEN_BUDGET`, `usage_metadata` accumulation in `agent_node`, `demo.py`/`verify.py`
