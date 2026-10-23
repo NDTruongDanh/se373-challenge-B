@@ -1,0 +1,2001 @@
+2026-10-23T10:00:00Z INFO  req=00000 method=GET /api/health latency=10ms
+2026-10-23T10:00:01Z INFO  req=00001 method=GET /api/health latency=4ms
+2026-10-23T10:00:02Z INFO  req=00002 method=GET /api/health latency=35ms
+2026-10-23T10:00:03Z INFO  req=00003 method=GET /api/health latency=38ms
+2026-10-23T10:00:04Z INFO  req=00004 method=GET /api/health latency=33ms
+2026-10-23T10:00:05Z INFO  req=00005 method=GET /api/health latency=6ms
+2026-10-23T10:00:06Z INFO  req=00006 method=GET /api/health latency=5ms
+2026-10-23T10:00:07Z INFO  req=00007 method=GET /api/health latency=36ms
+2026-10-23T10:00:08Z INFO  req=00008 method=GET /api/health latency=37ms
+2026-10-23T10:00:09Z INFO  req=00009 method=GET /api/health latency=15ms
+2026-10-23T10:00:10Z INFO  req=00010 method=GET /api/health latency=38ms
+2026-10-23T10:00:11Z INFO  req=00011 method=POST /api/login ok user=u_11
+2026-10-23T10:00:12Z INFO  req=00012 method=GET /api/health latency=26ms
+2026-10-23T10:00:13Z INFO  req=00013 method=GET /api/health latency=15ms
+2026-10-23T10:00:14Z INFO  req=00014 method=GET /api/health latency=9ms
+2026-10-23T10:00:15Z INFO  req=00015 method=GET /api/health latency=10ms
+2026-10-23T10:00:16Z INFO  req=00016 method=GET /api/health latency=37ms
+2026-10-23T10:00:17Z INFO  req=00017 method=GET /api/health latency=12ms
+2026-10-23T10:00:18Z INFO  req=00018 method=GET /api/health latency=37ms
+2026-10-23T10:00:19Z INFO  req=00019 method=GET /api/health latency=24ms
+2026-10-23T10:00:20Z INFO  req=00020 method=GET /api/health latency=5ms
+2026-10-23T10:00:21Z INFO  req=00021 method=GET /api/health latency=40ms
+2026-10-23T10:00:22Z INFO  req=00022 method=GET /api/health latency=35ms
+2026-10-23T10:00:23Z INFO  req=00023 method=GET /api/health latency=21ms
+2026-10-23T10:00:24Z INFO  req=00024 method=GET /api/health latency=30ms
+2026-10-23T10:00:25Z INFO  req=00025 method=GET /api/health latency=16ms
+2026-10-23T10:00:26Z INFO  req=00026 method=GET /api/health latency=16ms
+2026-10-23T10:00:27Z INFO  req=00027 method=GET /api/health latency=20ms
+2026-10-23T10:00:28Z INFO  req=00028 method=GET /api/health latency=22ms
+2026-10-23T10:00:29Z INFO  req=00029 method=GET /api/health latency=19ms
+2026-10-23T10:00:30Z INFO  req=00030 method=GET /api/health latency=5ms
+2026-10-23T10:00:31Z INFO  req=00031 method=GET /api/health latency=27ms
+2026-10-23T10:00:32Z INFO  req=00032 method=GET /api/health latency=22ms
+2026-10-23T10:00:33Z INFO  req=00033 method=GET /api/health latency=32ms
+2026-10-23T10:00:34Z INFO  req=00034 method=GET /api/health latency=5ms
+2026-10-23T10:00:35Z INFO  req=00035 method=GET /api/health latency=37ms
+2026-10-23T10:00:36Z INFO  req=00036 method=GET /api/health latency=21ms
+2026-10-23T10:00:37Z INFO  req=00037 method=GET /api/health latency=23ms
+2026-10-23T10:00:38Z INFO  req=00038 method=GET /api/health latency=38ms
+2026-10-23T10:00:39Z INFO  req=00039 method=GET /api/health latency=5ms
+2026-10-23T10:00:40Z WARN  slow query shard=5 retryable=true (duplicate noise 0)
+2026-10-23T10:00:41Z INFO  req=00041 method=GET /api/health latency=5ms
+2026-10-23T10:00:42Z INFO  req=00042 method=GET /api/health latency=20ms
+2026-10-23T10:00:43Z INFO  req=00043 method=GET /api/health latency=29ms
+2026-10-23T10:00:44Z INFO  req=00044 method=GET /api/health latency=25ms
+2026-10-23T10:00:45Z WARN  slow query shard=6 retryable=true (duplicate noise 0)
+2026-10-23T10:00:46Z INFO  req=00046 method=GET /api/health latency=30ms
+2026-10-23T10:00:47Z INFO  req=00047 method=GET /api/health latency=40ms
+2026-10-23T10:00:48Z INFO  req=00048 method=GET /api/health latency=4ms
+2026-10-23T10:00:49Z INFO  req=00049 method=GET /api/health latency=19ms
+2026-10-23T10:00:50Z INFO  req=00050 method=GET /api/health latency=16ms
+2026-10-23T10:00:51Z INFO  req=00051 method=GET /api/health latency=32ms
+2026-10-23T10:00:52Z INFO  req=00052 method=GET /api/health latency=29ms
+2026-10-23T10:00:53Z INFO  req=00053 method=GET /api/health latency=18ms
+2026-10-23T10:00:54Z WARN  slow query shard=7 retryable=true (duplicate noise 4)
+2026-10-23T10:00:55Z WARN  slow query shard=5 retryable=true (duplicate noise 0)
+2026-10-23T10:00:56Z INFO  req=00056 method=GET /api/health latency=23ms
+2026-10-23T10:00:57Z INFO  req=00057 method=GET /api/health latency=25ms
+2026-10-23T10:00:58Z INFO  req=00058 method=POST /api/login ok user=u_58
+2026-10-23T10:00:59Z INFO  req=00059 method=GET /api/health latency=12ms
+2026-10-23T10:01:00Z INFO  req=00060 method=GET /api/health latency=15ms
+2026-10-23T10:01:01Z INFO  req=00061 method=GET /api/health latency=38ms
+2026-10-23T10:01:02Z INFO  req=00062 method=GET /api/health latency=19ms
+2026-10-23T10:01:03Z INFO  req=00063 method=GET /api/health latency=27ms
+2026-10-23T10:01:04Z INFO  req=00064 method=GET /api/health latency=40ms
+2026-10-23T10:01:05Z INFO  req=00065 method=GET /api/health latency=9ms
+2026-10-23T10:01:06Z INFO  req=00066 method=GET /api/health latency=33ms
+2026-10-23T10:01:07Z INFO  req=00067 method=POST /api/login ok user=u_67
+2026-10-23T10:01:08Z INFO  req=00068 method=GET /api/health latency=4ms
+2026-10-23T10:01:09Z INFO  req=00069 method=GET /api/health latency=36ms
+2026-10-23T10:01:10Z INFO  req=00070 method=GET /api/health latency=26ms
+2026-10-23T10:01:11Z INFO  req=00071 method=GET /api/health latency=31ms
+2026-10-23T10:01:12Z INFO  req=00072 method=GET /api/health latency=4ms
+2026-10-23T10:01:13Z INFO  req=00073 method=GET /api/health latency=14ms
+2026-10-23T10:01:14Z INFO  req=00074 method=GET /api/health latency=8ms
+2026-10-23T10:01:15Z INFO  req=00075 method=GET /api/health latency=4ms
+2026-10-23T10:01:16Z INFO  req=00076 method=GET /api/health latency=37ms
+2026-10-23T10:01:17Z INFO  req=00077 method=GET /api/health latency=7ms
+2026-10-23T10:01:18Z INFO  req=00078 method=POST /api/login ok user=u_78
+2026-10-23T10:01:19Z INFO  req=00079 method=GET /api/health latency=5ms
+2026-10-23T10:01:20Z WARN  slow query shard=7 retryable=true (duplicate noise 0)
+2026-10-23T10:01:21Z INFO  req=00081 method=GET /api/health latency=17ms
+2026-10-23T10:01:22Z INFO  req=00082 method=POST /api/login ok user=u_82
+2026-10-23T10:01:23Z INFO  req=00083 method=GET /api/health latency=31ms
+2026-10-23T10:01:24Z INFO  req=00084 method=GET /api/health latency=32ms
+2026-10-23T10:01:25Z INFO  req=00085 method=POST /api/login ok user=u_85
+2026-10-23T10:01:26Z INFO  req=00086 method=GET /api/health latency=31ms
+2026-10-23T10:01:27Z INFO  req=00087 method=GET /api/health latency=10ms
+2026-10-23T10:01:28Z INFO  req=00088 method=GET /api/health latency=22ms
+2026-10-23T10:01:29Z INFO  req=00089 method=GET /api/health latency=31ms
+2026-10-23T10:01:30Z WARN  slow query shard=3 retryable=true (duplicate noise 0)
+2026-10-23T10:01:31Z INFO  req=00091 method=GET /api/health latency=14ms
+2026-10-23T10:01:32Z INFO  req=00092 method=POST /api/login ok user=u_92
+2026-10-23T10:01:33Z INFO  req=00093 method=GET /api/health latency=10ms
+2026-10-23T10:01:34Z INFO  req=00094 method=GET /api/health latency=2ms
+2026-10-23T10:01:35Z INFO  req=00095 method=GET /api/health latency=20ms
+2026-10-23T10:01:36Z INFO  req=00096 method=POST /api/login ok user=u_96
+2026-10-23T10:01:37Z WARN  slow query shard=5 retryable=true (duplicate noise 2)
+2026-10-23T10:01:38Z INFO  req=00098 method=GET /api/health latency=11ms
+2026-10-23T10:01:39Z INFO  req=00099 method=GET /api/health latency=15ms
+2026-10-23T10:01:40Z INFO  req=00100 method=GET /api/health latency=33ms
+2026-10-23T10:01:41Z INFO  req=00101 method=GET /api/health latency=15ms
+2026-10-23T10:01:42Z INFO  req=00102 method=GET /api/health latency=13ms
+2026-10-23T10:01:43Z WARN  slow query shard=7 retryable=true (duplicate noise 3)
+2026-10-23T10:01:44Z INFO  req=00104 method=GET /api/health latency=15ms
+2026-10-23T10:01:45Z INFO  req=00105 method=GET /api/health latency=32ms
+2026-10-23T10:01:46Z INFO  req=00106 method=GET /api/health latency=2ms
+2026-10-23T10:01:47Z INFO  req=00107 method=POST /api/login ok user=u_107
+2026-10-23T10:01:48Z INFO  req=00108 method=GET /api/health latency=31ms
+2026-10-23T10:01:49Z INFO  req=00109 method=GET /api/health latency=39ms
+2026-10-23T10:01:50Z INFO  req=00110 method=POST /api/login ok user=u_110
+2026-10-23T10:01:51Z INFO  req=00111 method=GET /api/health latency=23ms
+2026-10-23T10:01:52Z INFO  req=00112 method=POST /api/login ok user=u_112
+2026-10-23T10:01:53Z INFO  req=00113 method=GET /api/health latency=15ms
+2026-10-23T10:01:54Z INFO  req=00114 method=GET /api/health latency=31ms
+2026-10-23T10:01:55Z INFO  req=00115 method=GET /api/health latency=14ms
+2026-10-23T10:01:56Z INFO  req=00116 method=GET /api/health latency=40ms
+2026-10-23T10:01:57Z WARN  slow query shard=8 retryable=true (duplicate noise 2)
+2026-10-23T10:01:58Z WARN  slow query shard=6 retryable=true (duplicate noise 3)
+2026-10-23T10:01:59Z INFO  req=00119 method=GET /api/health latency=6ms
+2026-10-23T10:02:00Z WARN  slow query shard=2 retryable=true (duplicate noise 0)
+2026-10-23T10:02:01Z WARN  slow query shard=4 retryable=true (duplicate noise 1)
+2026-10-23T10:02:02Z INFO  req=00122 method=GET /api/health latency=12ms
+2026-10-23T10:02:03Z INFO  req=00123 method=GET /api/health latency=22ms
+2026-10-23T10:02:04Z INFO  req=00124 method=GET /api/health latency=26ms
+2026-10-23T10:02:05Z INFO  req=00125 method=GET /api/health latency=6ms
+2026-10-23T10:02:06Z INFO  req=00126 method=GET /api/health latency=11ms
+2026-10-23T10:02:07Z INFO  req=00127 method=POST /api/login ok user=u_127
+2026-10-23T10:02:08Z INFO  req=00128 method=GET /api/health latency=38ms
+2026-10-23T10:02:09Z WARN  slow query shard=3 retryable=true (duplicate noise 4)
+2026-10-23T10:02:10Z INFO  req=00130 method=GET /api/health latency=39ms
+2026-10-23T10:02:11Z INFO  req=00131 method=POST /api/login ok user=u_131
+2026-10-23T10:02:12Z INFO  req=00132 method=GET /api/health latency=23ms
+2026-10-23T10:02:13Z INFO  req=00133 method=GET /api/health latency=36ms
+2026-10-23T10:02:14Z INFO  req=00134 method=GET /api/health latency=1ms
+2026-10-23T10:02:15Z INFO  req=00135 method=GET /api/health latency=7ms
+2026-10-23T10:02:16Z INFO  req=00136 method=GET /api/health latency=9ms
+2026-10-23T10:02:17Z INFO  req=00137 method=GET /api/health latency=13ms
+2026-10-23T10:02:18Z WARN  slow query shard=4 retryable=true (duplicate noise 3)
+2026-10-23T10:02:19Z INFO  req=00139 method=GET /api/health latency=14ms
+2026-10-23T10:02:20Z INFO  req=00140 method=GET /api/health latency=16ms
+2026-10-23T10:02:21Z INFO  req=00141 method=GET /api/health latency=21ms
+2026-10-23T10:02:22Z INFO  req=00142 method=GET /api/health latency=27ms
+2026-10-23T10:02:23Z WARN  slow query shard=1 retryable=true (duplicate noise 3)
+2026-10-23T10:02:24Z WARN  slow query shard=6 retryable=true (duplicate noise 4)
+2026-10-23T10:02:25Z WARN  slow query shard=7 retryable=true (duplicate noise 0)
+2026-10-23T10:02:26Z WARN  slow query shard=3 retryable=true (duplicate noise 1)
+2026-10-23T10:02:27Z INFO  req=00147 method=GET /api/health latency=34ms
+2026-10-23T10:02:28Z INFO  req=00148 method=GET /api/health latency=29ms
+2026-10-23T10:02:29Z INFO  req=00149 method=GET /api/health latency=39ms
+2026-10-23T10:02:30Z INFO  req=00150 method=GET /api/health latency=10ms
+2026-10-23T10:02:31Z INFO  req=00151 method=GET /api/health latency=31ms
+2026-10-23T10:02:32Z INFO  req=00152 method=GET /api/health latency=8ms
+2026-10-23T10:02:33Z INFO  req=00153 method=GET /api/health latency=21ms
+2026-10-23T10:02:34Z INFO  req=00154 method=GET /api/health latency=34ms
+2026-10-23T10:02:35Z INFO  req=00155 method=GET /api/health latency=7ms
+2026-10-23T10:02:36Z WARN  slow query shard=1 retryable=true (duplicate noise 1)
+2026-10-23T10:02:37Z INFO  req=00157 method=GET /api/health latency=18ms
+2026-10-23T10:02:38Z INFO  req=00158 method=GET /api/health latency=7ms
+2026-10-23T10:02:39Z INFO  req=00159 method=GET /api/health latency=36ms
+2026-10-23T10:02:40Z INFO  req=00160 method=GET /api/health latency=5ms
+2026-10-23T10:02:41Z INFO  req=00161 method=GET /api/health latency=40ms
+2026-10-23T10:02:42Z INFO  req=00162 method=POST /api/login ok user=u_162
+2026-10-23T10:02:43Z INFO  req=00163 method=GET /api/health latency=13ms
+2026-10-23T10:02:44Z INFO  req=00164 method=GET /api/health latency=29ms
+2026-10-23T10:02:45Z INFO  req=00165 method=GET /api/health latency=31ms
+2026-10-23T10:02:46Z INFO  req=00166 method=GET /api/health latency=16ms
+2026-10-23T10:02:47Z INFO  req=00167 method=GET /api/health latency=17ms
+2026-10-23T10:02:48Z WARN  slow query shard=4 retryable=true (duplicate noise 3)
+2026-10-23T10:02:49Z WARN  slow query shard=3 retryable=true (duplicate noise 4)
+2026-10-23T10:02:50Z INFO  req=00170 method=GET /api/health latency=26ms
+2026-10-23T10:02:51Z INFO  req=00171 method=GET /api/health latency=5ms
+2026-10-23T10:02:52Z INFO  req=00172 method=GET /api/health latency=28ms
+2026-10-23T10:02:53Z INFO  req=00173 method=GET /api/health latency=20ms
+2026-10-23T10:02:54Z INFO  req=00174 method=GET /api/health latency=10ms
+2026-10-23T10:02:55Z INFO  req=00175 method=POST /api/login ok user=u_175
+2026-10-23T10:02:56Z INFO  req=00176 method=GET /api/health latency=24ms
+2026-10-23T10:02:57Z INFO  req=00177 method=GET /api/health latency=9ms
+2026-10-23T10:02:58Z INFO  req=00178 method=POST /api/login ok user=u_178
+2026-10-23T10:02:59Z INFO  req=00179 method=GET /api/health latency=7ms
+2026-10-23T10:03:00Z INFO  req=00180 method=GET /api/health latency=32ms
+2026-10-23T10:03:01Z INFO  req=00181 method=GET /api/health latency=15ms
+2026-10-23T10:03:02Z INFO  req=00182 method=GET /api/health latency=28ms
+2026-10-23T10:03:03Z INFO  req=00183 method=POST /api/login ok user=u_183
+2026-10-23T10:03:04Z INFO  req=00184 method=GET /api/health latency=27ms
+2026-10-23T10:03:05Z INFO  req=00185 method=GET /api/health latency=21ms
+2026-10-23T10:03:06Z INFO  req=00186 method=GET /api/health latency=24ms
+2026-10-23T10:03:07Z INFO  req=00187 method=GET /api/health latency=36ms
+2026-10-23T10:03:08Z INFO  req=00188 method=GET /api/health latency=2ms
+2026-10-23T10:03:09Z INFO  req=00189 method=GET /api/health latency=34ms
+2026-10-23T10:03:10Z INFO  req=00190 method=GET /api/health latency=33ms
+2026-10-23T10:03:11Z INFO  req=00191 method=POST /api/login ok user=u_191
+2026-10-23T10:03:12Z INFO  req=00192 method=GET /api/health latency=15ms
+2026-10-23T10:03:13Z INFO  req=00193 method=POST /api/login ok user=u_193
+2026-10-23T10:03:14Z INFO  req=00194 method=GET /api/health latency=17ms
+2026-10-23T10:03:15Z INFO  req=00195 method=GET /api/health latency=12ms
+2026-10-23T10:03:16Z INFO  req=00196 method=GET /api/health latency=9ms
+2026-10-23T10:03:17Z WARN  slow query shard=5 retryable=true (duplicate noise 2)
+2026-10-23T10:03:18Z INFO  req=00198 method=GET /api/health latency=35ms
+2026-10-23T10:03:19Z WARN  slow query shard=8 retryable=true (duplicate noise 4)
+2026-10-23T10:03:20Z INFO  req=00200 method=GET /api/health latency=6ms
+2026-10-23T10:03:21Z INFO  req=00201 method=GET /api/health latency=12ms
+2026-10-23T10:03:22Z INFO  req=00202 method=GET /api/health latency=5ms
+2026-10-23T10:03:23Z INFO  req=00203 method=GET /api/health latency=2ms
+2026-10-23T10:03:24Z INFO  req=00204 method=GET /api/health latency=17ms
+2026-10-23T10:03:25Z INFO  req=00205 method=GET /api/health latency=15ms
+2026-10-23T10:03:26Z INFO  req=00206 method=GET /api/health latency=8ms
+2026-10-23T10:03:27Z INFO  req=00207 method=GET /api/health latency=22ms
+2026-10-23T10:03:28Z INFO  req=00208 method=POST /api/login ok user=u_208
+2026-10-23T10:03:29Z INFO  req=00209 method=GET /api/health latency=18ms
+2026-10-23T10:03:30Z INFO  req=00210 method=GET /api/health latency=3ms
+2026-10-23T10:03:31Z INFO  req=00211 method=GET /api/health latency=16ms
+2026-10-23T10:03:32Z INFO  req=00212 method=POST /api/login ok user=u_212
+2026-10-23T10:03:33Z INFO  req=00213 method=POST /api/login ok user=u_213
+2026-10-23T10:03:34Z INFO  req=00214 method=GET /api/health latency=12ms
+2026-10-23T10:03:35Z INFO  req=00215 method=GET /api/health latency=20ms
+2026-10-23T10:03:36Z INFO  req=00216 method=GET /api/health latency=34ms
+2026-10-23T10:03:37Z INFO  req=00217 method=GET /api/health latency=19ms
+2026-10-23T10:03:38Z INFO  req=00218 method=GET /api/health latency=12ms
+2026-10-23T10:03:39Z INFO  req=00219 method=GET /api/health latency=2ms
+2026-10-23T10:03:40Z INFO  req=00220 method=POST /api/login ok user=u_220
+2026-10-23T10:03:41Z INFO  req=00221 method=GET /api/health latency=2ms
+2026-10-23T10:03:42Z INFO  req=00222 method=GET /api/health latency=36ms
+2026-10-23T10:03:43Z INFO  req=00223 method=POST /api/login ok user=u_223
+2026-10-23T10:03:44Z INFO  req=00224 method=GET /api/health latency=16ms
+2026-10-23T10:03:45Z INFO  req=00225 method=POST /api/login ok user=u_225
+2026-10-23T10:03:46Z INFO  req=00226 method=GET /api/health latency=28ms
+2026-10-23T10:03:47Z INFO  req=00227 method=GET /api/health latency=35ms
+2026-10-23T10:03:48Z WARN  slow query shard=7 retryable=true (duplicate noise 3)
+2026-10-23T10:03:49Z INFO  req=00229 method=POST /api/login ok user=u_229
+2026-10-23T10:03:50Z INFO  req=00230 method=GET /api/health latency=14ms
+2026-10-23T10:03:51Z INFO  req=00231 method=POST /api/login ok user=u_231
+2026-10-23T10:03:52Z INFO  req=00232 method=GET /api/health latency=9ms
+2026-10-23T10:03:53Z INFO  req=00233 method=GET /api/health latency=23ms
+2026-10-23T10:03:54Z INFO  req=00234 method=POST /api/login ok user=u_234
+2026-10-23T10:03:55Z WARN  slow query shard=1 retryable=true (duplicate noise 0)
+2026-10-23T10:03:56Z INFO  req=00236 method=GET /api/health latency=17ms
+2026-10-23T10:03:57Z INFO  req=00237 method=GET /api/health latency=4ms
+2026-10-23T10:03:58Z INFO  req=00238 method=GET /api/health latency=25ms
+2026-10-23T10:03:59Z WARN  slow query shard=5 retryable=true (duplicate noise 4)
+2026-10-23T10:04:00Z INFO  req=00240 method=GET /api/health latency=19ms
+2026-10-23T10:04:01Z INFO  req=00241 method=GET /api/health latency=12ms
+2026-10-23T10:04:02Z INFO  req=00242 method=GET /api/health latency=29ms
+2026-10-23T10:04:03Z INFO  req=00243 method=GET /api/health latency=24ms
+2026-10-23T10:04:04Z INFO  req=00244 method=POST /api/login ok user=u_244
+2026-10-23T10:04:05Z INFO  req=00245 method=POST /api/login ok user=u_245
+2026-10-23T10:04:06Z INFO  req=00246 method=GET /api/health latency=16ms
+2026-10-23T10:04:07Z INFO  req=00247 method=GET /api/health latency=20ms
+2026-10-23T10:04:08Z INFO  req=00248 method=GET /api/health latency=12ms
+2026-10-23T10:04:09Z INFO  req=00249 method=GET /api/health latency=25ms
+2026-10-23T10:04:10Z INFO  req=00250 method=GET /api/health latency=18ms
+2026-10-23T10:04:11Z INFO  req=00251 method=GET /api/health latency=13ms
+2026-10-23T10:04:12Z INFO  req=00252 method=GET /api/health latency=1ms
+2026-10-23T10:04:13Z INFO  req=00253 method=GET /api/health latency=6ms
+2026-10-23T10:04:14Z INFO  req=00254 method=GET /api/health latency=38ms
+2026-10-23T10:04:15Z INFO  req=00255 method=GET /api/health latency=2ms
+2026-10-23T10:04:16Z INFO  req=00256 method=GET /api/health latency=15ms
+2026-10-23T10:04:17Z INFO  req=00257 method=GET /api/health latency=34ms
+2026-10-23T10:04:18Z WARN  slow query shard=3 retryable=true (duplicate noise 3)
+2026-10-23T10:04:19Z INFO  req=00259 method=GET /api/health latency=39ms
+2026-10-23T10:04:20Z INFO  req=00260 method=GET /api/health latency=21ms
+2026-10-23T10:04:21Z INFO  req=00261 method=GET /api/health latency=32ms
+2026-10-23T10:04:22Z INFO  req=00262 method=GET /api/health latency=40ms
+2026-10-23T10:04:23Z INFO  req=00263 method=GET /api/health latency=3ms
+2026-10-23T10:04:24Z WARN  slow query shard=7 retryable=true (duplicate noise 4)
+2026-10-23T10:04:25Z INFO  req=00265 method=GET /api/health latency=33ms
+2026-10-23T10:04:26Z INFO  req=00266 method=GET /api/health latency=34ms
+2026-10-23T10:04:27Z INFO  req=00267 method=GET /api/health latency=37ms
+2026-10-23T10:04:28Z WARN  slow query shard=1 retryable=true (duplicate noise 3)
+2026-10-23T10:04:29Z WARN  slow query shard=4 retryable=true (duplicate noise 4)
+2026-10-23T10:04:30Z INFO  req=00270 method=GET /api/health latency=3ms
+2026-10-23T10:04:31Z INFO  req=00271 method=GET /api/health latency=24ms
+2026-10-23T10:04:32Z INFO  req=00272 method=POST /api/login ok user=u_272
+2026-10-23T10:04:33Z INFO  req=00273 method=GET /api/health latency=29ms
+2026-10-23T10:04:34Z INFO  req=00274 method=GET /api/health latency=2ms
+2026-10-23T10:04:35Z INFO  req=00275 method=GET /api/health latency=16ms
+2026-10-23T10:04:36Z INFO  req=00276 method=GET /api/health latency=1ms
+2026-10-23T10:04:37Z INFO  req=00277 method=GET /api/health latency=5ms
+2026-10-23T10:04:38Z INFO  req=00278 method=GET /api/health latency=33ms
+2026-10-23T10:04:39Z WARN  slow query shard=2 retryable=true (duplicate noise 4)
+2026-10-23T10:04:40Z INFO  req=00280 method=GET /api/health latency=5ms
+2026-10-23T10:04:41Z INFO  req=00281 method=GET /api/health latency=31ms
+2026-10-23T10:04:42Z INFO  req=00282 method=GET /api/health latency=5ms
+2026-10-23T10:04:43Z WARN  slow query shard=4 retryable=true (duplicate noise 3)
+2026-10-23T10:04:44Z INFO  req=00284 method=GET /api/health latency=14ms
+2026-10-23T10:04:45Z INFO  req=00285 method=GET /api/health latency=30ms
+2026-10-23T10:04:46Z INFO  req=00286 method=GET /api/health latency=25ms
+2026-10-23T10:04:47Z INFO  req=00287 method=GET /api/health latency=19ms
+2026-10-23T10:04:48Z INFO  req=00288 method=GET /api/health latency=40ms
+2026-10-23T10:04:49Z INFO  req=00289 method=GET /api/health latency=13ms
+2026-10-23T10:04:50Z INFO  req=00290 method=GET /api/health latency=10ms
+2026-10-23T10:04:51Z INFO  req=00291 method=GET /api/health latency=20ms
+2026-10-23T10:04:52Z INFO  req=00292 method=GET /api/health latency=9ms
+2026-10-23T10:04:53Z INFO  req=00293 method=GET /api/health latency=4ms
+2026-10-23T10:04:54Z INFO  req=00294 method=GET /api/health latency=7ms
+2026-10-23T10:04:55Z INFO  req=00295 method=GET /api/health latency=32ms
+2026-10-23T10:04:56Z INFO  req=00296 method=GET /api/health latency=34ms
+2026-10-23T10:04:57Z INFO  req=00297 method=GET /api/health latency=30ms
+2026-10-23T10:04:58Z INFO  req=00298 method=GET /api/health latency=8ms
+2026-10-23T10:04:59Z INFO  req=00299 method=POST /api/login ok user=u_299
+2026-10-23T10:05:00Z INFO  req=00300 method=GET /api/health latency=20ms
+2026-10-23T10:05:01Z INFO  req=00301 method=POST /api/login ok user=u_301
+2026-10-23T10:05:02Z INFO  req=00302 method=POST /api/login ok user=u_302
+2026-10-23T10:05:03Z INFO  req=00303 method=GET /api/health latency=30ms
+2026-10-23T10:05:04Z INFO  req=00304 method=GET /api/health latency=33ms
+2026-10-23T10:05:05Z INFO  req=00305 method=POST /api/login ok user=u_305
+2026-10-23T10:05:06Z INFO  req=00306 method=GET /api/health latency=18ms
+2026-10-23T10:05:07Z INFO  req=00307 method=GET /api/health latency=14ms
+2026-10-23T10:05:08Z INFO  req=00308 method=GET /api/health latency=6ms
+2026-10-23T10:05:09Z INFO  req=00309 method=GET /api/health latency=34ms
+2026-10-23T10:05:10Z INFO  req=00310 method=GET /api/health latency=24ms
+2026-10-23T10:05:11Z INFO  req=00311 method=GET /api/health latency=33ms
+2026-10-23T10:05:12Z INFO  req=00312 method=GET /api/health latency=8ms
+2026-10-23T10:05:13Z INFO  req=00313 method=GET /api/health latency=15ms
+2026-10-23T10:05:14Z INFO  req=00314 method=GET /api/health latency=32ms
+2026-10-23T10:05:15Z INFO  req=00315 method=GET /api/health latency=11ms
+2026-10-23T10:05:16Z INFO  req=00316 method=GET /api/health latency=32ms
+2026-10-23T10:05:17Z INFO  req=00317 method=GET /api/health latency=26ms
+2026-10-23T10:05:18Z INFO  req=00318 method=GET /api/health latency=10ms
+2026-10-23T10:05:19Z INFO  req=00319 method=GET /api/health latency=25ms
+2026-10-23T10:05:20Z INFO  req=00320 method=GET /api/health latency=22ms
+2026-10-23T10:05:21Z INFO  req=00321 method=GET /api/health latency=22ms
+2026-10-23T10:05:22Z WARN  slow query shard=2 retryable=true (duplicate noise 2)
+2026-10-23T10:05:23Z INFO  req=00323 method=POST /api/login ok user=u_323
+2026-10-23T10:05:24Z INFO  req=00324 method=GET /api/health latency=1ms
+2026-10-23T10:05:25Z WARN  slow query shard=5 retryable=true (duplicate noise 0)
+2026-10-23T10:05:26Z INFO  req=00326 method=GET /api/health latency=5ms
+2026-10-23T10:05:27Z INFO  req=00327 method=GET /api/health latency=38ms
+2026-10-23T10:05:28Z INFO  req=00328 method=GET /api/health latency=28ms
+2026-10-23T10:05:29Z INFO  req=00329 method=GET /api/health latency=4ms
+2026-10-23T10:05:30Z INFO  req=00330 method=GET /api/health latency=4ms
+2026-10-23T10:05:31Z WARN  slow query shard=5 retryable=true (duplicate noise 1)
+2026-10-23T10:05:32Z INFO  req=00332 method=GET /api/health latency=10ms
+2026-10-23T10:05:33Z INFO  req=00333 method=GET /api/health latency=18ms
+2026-10-23T10:05:34Z INFO  req=00334 method=GET /api/health latency=21ms
+2026-10-23T10:05:35Z INFO  req=00335 method=GET /api/health latency=24ms
+2026-10-23T10:05:36Z INFO  req=00336 method=GET /api/health latency=28ms
+2026-10-23T10:05:37Z WARN  slow query shard=7 retryable=true (duplicate noise 2)
+2026-10-23T10:05:38Z WARN  slow query shard=4 retryable=true (duplicate noise 3)
+2026-10-23T10:05:39Z INFO  req=00339 method=GET /api/health latency=4ms
+2026-10-23T10:05:40Z INFO  req=00340 method=POST /api/login ok user=u_340
+2026-10-23T10:05:41Z INFO  req=00341 method=GET /api/health latency=40ms
+2026-10-23T10:05:42Z INFO  req=00342 method=GET /api/health latency=19ms
+2026-10-23T10:05:43Z INFO  req=00343 method=GET /api/health latency=36ms
+2026-10-23T10:05:44Z INFO  req=00344 method=GET /api/health latency=31ms
+2026-10-23T10:05:45Z INFO  req=00345 method=GET /api/health latency=19ms
+2026-10-23T10:05:46Z INFO  req=00346 method=GET /api/health latency=17ms
+2026-10-23T10:05:47Z INFO  req=00347 method=GET /api/health latency=16ms
+2026-10-23T10:05:48Z INFO  req=00348 method=GET /api/health latency=36ms
+2026-10-23T10:05:49Z INFO  req=00349 method=GET /api/health latency=8ms
+2026-10-23T10:05:50Z INFO  req=00350 method=GET /api/health latency=11ms
+2026-10-23T10:05:51Z INFO  req=00351 method=GET /api/health latency=33ms
+2026-10-23T10:05:52Z WARN  slow query shard=8 retryable=true (duplicate noise 2)
+2026-10-23T10:05:53Z INFO  req=00353 method=GET /api/health latency=29ms
+2026-10-23T10:05:54Z WARN  slow query shard=8 retryable=true (duplicate noise 4)
+2026-10-23T10:05:55Z INFO  req=00355 method=GET /api/health latency=36ms
+2026-10-23T10:05:56Z INFO  req=00356 method=GET /api/health latency=6ms
+2026-10-23T10:05:57Z INFO  req=00357 method=GET /api/health latency=36ms
+2026-10-23T10:05:58Z INFO  req=00358 method=GET /api/health latency=16ms
+2026-10-23T10:05:59Z INFO  req=00359 method=GET /api/health latency=37ms
+2026-10-23T10:06:00Z INFO  req=00360 method=GET /api/health latency=2ms
+2026-10-23T10:06:01Z INFO  req=00361 method=GET /api/health latency=27ms
+2026-10-23T10:06:02Z INFO  req=00362 method=GET /api/health latency=34ms
+2026-10-23T10:06:03Z INFO  req=00363 method=GET /api/health latency=18ms
+2026-10-23T10:06:04Z INFO  req=00364 method=GET /api/health latency=4ms
+2026-10-23T10:06:05Z INFO  req=00365 method=GET /api/health latency=37ms
+2026-10-23T10:06:06Z INFO  req=00366 method=POST /api/login ok user=u_366
+2026-10-23T10:06:07Z INFO  req=00367 method=GET /api/health latency=33ms
+2026-10-23T10:06:08Z INFO  req=00368 method=GET /api/health latency=14ms
+2026-10-23T10:06:09Z INFO  req=00369 method=GET /api/health latency=16ms
+2026-10-23T10:06:10Z INFO  req=00370 method=GET /api/health latency=29ms
+2026-10-23T10:06:11Z INFO  req=00371 method=GET /api/health latency=20ms
+2026-10-23T10:06:12Z WARN  slow query shard=1 retryable=true (duplicate noise 2)
+2026-10-23T10:06:13Z INFO  req=00373 method=GET /api/health latency=28ms
+2026-10-23T10:06:14Z INFO  req=00374 method=GET /api/health latency=31ms
+2026-10-23T10:06:15Z INFO  req=00375 method=POST /api/login ok user=u_375
+2026-10-23T10:06:16Z INFO  req=00376 method=GET /api/health latency=5ms
+2026-10-23T10:06:17Z INFO  req=00377 method=GET /api/health latency=34ms
+2026-10-23T10:06:18Z WARN  slow query shard=8 retryable=true (duplicate noise 3)
+2026-10-23T10:06:19Z INFO  req=00379 method=GET /api/health latency=7ms
+2026-10-23T10:06:20Z INFO  req=00380 method=GET /api/health latency=10ms
+2026-10-23T10:06:21Z INFO  req=00381 method=GET /api/health latency=7ms
+2026-10-23T10:06:22Z INFO  req=00382 method=POST /api/login ok user=u_382
+2026-10-23T10:06:23Z INFO  req=00383 method=GET /api/health latency=30ms
+2026-10-23T10:06:24Z INFO  req=00384 method=GET /api/health latency=3ms
+2026-10-23T10:06:25Z INFO  req=00385 method=GET /api/health latency=9ms
+2026-10-23T10:06:26Z INFO  req=00386 method=GET /api/health latency=3ms
+2026-10-23T10:06:27Z INFO  req=00387 method=GET /api/health latency=20ms
+2026-10-23T10:06:28Z INFO  req=00388 method=POST /api/login ok user=u_388
+2026-10-23T10:06:29Z INFO  req=00389 method=GET /api/health latency=34ms
+2026-10-23T10:06:30Z INFO  req=00390 method=GET /api/health latency=8ms
+2026-10-23T10:06:31Z INFO  req=00391 method=GET /api/health latency=20ms
+2026-10-23T10:06:32Z INFO  req=00392 method=GET /api/health latency=38ms
+2026-10-23T10:06:33Z INFO  req=00393 method=GET /api/health latency=17ms
+2026-10-23T10:06:34Z INFO  req=00394 method=GET /api/health latency=39ms
+2026-10-23T10:06:35Z INFO  req=00395 method=GET /api/health latency=35ms
+2026-10-23T10:06:36Z INFO  req=00396 method=GET /api/health latency=30ms
+2026-10-23T10:06:37Z INFO  req=00397 method=GET /api/health latency=21ms
+2026-10-23T10:06:38Z INFO  req=00398 method=GET /api/health latency=16ms
+2026-10-23T10:06:39Z INFO  req=00399 method=GET /api/health latency=16ms
+2026-10-23T10:06:40Z ERROR auth refresh-token race: duplicate token issued for user u_400 (concurrent refresh)
+2026-10-23T10:06:41Z INFO  req=00401 method=GET /api/health latency=27ms
+2026-10-23T10:06:42Z INFO  req=00402 method=GET /api/health latency=20ms
+2026-10-23T10:06:43Z INFO  req=00403 method=GET /api/health latency=13ms
+2026-10-23T10:06:44Z INFO  req=00404 method=GET /api/health latency=27ms
+2026-10-23T10:06:45Z INFO  req=00405 method=GET /api/health latency=15ms
+2026-10-23T10:06:46Z INFO  req=00406 method=GET /api/health latency=24ms
+2026-10-23T10:06:47Z INFO  req=00407 method=GET /api/health latency=3ms
+2026-10-23T10:06:48Z INFO  req=00408 method=GET /api/health latency=27ms
+2026-10-23T10:06:49Z INFO  req=00409 method=GET /api/health latency=26ms
+2026-10-23T10:06:50Z INFO  req=00410 method=GET /api/health latency=19ms
+2026-10-23T10:06:51Z INFO  req=00411 method=GET /api/health latency=33ms
+2026-10-23T10:06:52Z INFO  req=00412 method=GET /api/health latency=32ms
+2026-10-23T10:06:53Z INFO  req=00413 method=POST /api/login ok user=u_413
+2026-10-23T10:06:54Z INFO  req=00414 method=GET /api/health latency=13ms
+2026-10-23T10:06:55Z INFO  req=00415 method=GET /api/health latency=15ms
+2026-10-23T10:06:56Z INFO  req=00416 method=GET /api/health latency=19ms
+2026-10-23T10:06:57Z INFO  req=00417 method=GET /api/health latency=40ms
+2026-10-23T10:06:58Z INFO  req=00418 method=GET /api/health latency=12ms
+2026-10-23T10:06:59Z WARN  slow query shard=8 retryable=true (duplicate noise 4)
+2026-10-23T10:07:00Z INFO  req=00420 method=GET /api/health latency=4ms
+2026-10-23T10:07:01Z INFO  req=00421 method=POST /api/login ok user=u_421
+2026-10-23T10:07:02Z INFO  req=00422 method=GET /api/health latency=26ms
+2026-10-23T10:07:03Z INFO  req=00423 method=GET /api/health latency=2ms
+2026-10-23T10:07:04Z INFO  req=00424 method=POST /api/login ok user=u_424
+2026-10-23T10:07:05Z INFO  req=00425 method=GET /api/health latency=4ms
+2026-10-23T10:07:06Z INFO  req=00426 method=GET /api/health latency=12ms
+2026-10-23T10:07:07Z INFO  req=00427 method=GET /api/health latency=21ms
+2026-10-23T10:07:08Z INFO  req=00428 method=GET /api/health latency=6ms
+2026-10-23T10:07:09Z INFO  req=00429 method=POST /api/login ok user=u_429
+2026-10-23T10:07:10Z INFO  req=00430 method=GET /api/health latency=12ms
+2026-10-23T10:07:11Z INFO  req=00431 method=GET /api/health latency=34ms
+2026-10-23T10:07:12Z INFO  req=00432 method=GET /api/health latency=3ms
+2026-10-23T10:07:13Z INFO  req=00433 method=GET /api/health latency=25ms
+2026-10-23T10:07:14Z WARN  slow query shard=6 retryable=true (duplicate noise 4)
+2026-10-23T10:07:15Z INFO  req=00435 method=GET /api/health latency=7ms
+2026-10-23T10:07:16Z INFO  req=00436 method=GET /api/health latency=18ms
+2026-10-23T10:07:17Z INFO  req=00437 method=GET /api/health latency=27ms
+2026-10-23T10:07:18Z INFO  req=00438 method=POST /api/login ok user=u_438
+2026-10-23T10:07:19Z INFO  req=00439 method=GET /api/health latency=14ms
+2026-10-23T10:07:20Z INFO  req=00440 method=GET /api/health latency=20ms
+2026-10-23T10:07:21Z WARN  slow query shard=7 retryable=true (duplicate noise 1)
+2026-10-23T10:07:22Z INFO  req=00442 method=GET /api/health latency=31ms
+2026-10-23T10:07:23Z INFO  req=00443 method=GET /api/health latency=35ms
+2026-10-23T10:07:24Z WARN  slow query shard=4 retryable=true (duplicate noise 4)
+2026-10-23T10:07:25Z INFO  req=00445 method=GET /api/health latency=31ms
+2026-10-23T10:07:26Z INFO  req=00446 method=GET /api/health latency=27ms
+2026-10-23T10:07:27Z INFO  req=00447 method=GET /api/health latency=26ms
+2026-10-23T10:07:28Z INFO  req=00448 method=GET /api/health latency=3ms
+2026-10-23T10:07:29Z INFO  req=00449 method=GET /api/health latency=4ms
+2026-10-23T10:07:30Z INFO  req=00450 method=GET /api/health latency=5ms
+2026-10-23T10:07:31Z WARN  slow query shard=6 retryable=true (duplicate noise 1)
+2026-10-23T10:07:32Z INFO  req=00452 method=GET /api/health latency=22ms
+2026-10-23T10:07:33Z INFO  req=00453 method=POST /api/login ok user=u_453
+2026-10-23T10:07:34Z INFO  req=00454 method=GET /api/health latency=17ms
+2026-10-23T10:07:35Z INFO  req=00455 method=GET /api/health latency=21ms
+2026-10-23T10:07:36Z WARN  slow query shard=5 retryable=true (duplicate noise 1)
+2026-10-23T10:07:37Z INFO  req=00457 method=GET /api/health latency=39ms
+2026-10-23T10:07:38Z WARN  slow query shard=2 retryable=true (duplicate noise 3)
+2026-10-23T10:07:39Z INFO  req=00459 method=GET /api/health latency=15ms
+2026-10-23T10:07:40Z INFO  req=00460 method=GET /api/health latency=30ms
+2026-10-23T10:07:41Z INFO  req=00461 method=POST /api/login ok user=u_461
+2026-10-23T10:07:42Z INFO  req=00462 method=GET /api/health latency=17ms
+2026-10-23T10:07:43Z WARN  slow query shard=8 retryable=true (duplicate noise 3)
+2026-10-23T10:07:44Z INFO  req=00464 method=GET /api/health latency=32ms
+2026-10-23T10:07:45Z INFO  req=00465 method=GET /api/health latency=20ms
+2026-10-23T10:07:46Z WARN  slow query shard=3 retryable=true (duplicate noise 1)
+2026-10-23T10:07:47Z INFO  req=00467 method=GET /api/health latency=21ms
+2026-10-23T10:07:48Z WARN  slow query shard=8 retryable=true (duplicate noise 3)
+2026-10-23T10:07:49Z INFO  req=00469 method=GET /api/health latency=39ms
+2026-10-23T10:07:50Z INFO  req=00470 method=GET /api/health latency=13ms
+2026-10-23T10:07:51Z INFO  req=00471 method=GET /api/health latency=11ms
+2026-10-23T10:07:52Z INFO  req=00472 method=GET /api/health latency=5ms
+2026-10-23T10:07:53Z INFO  req=00473 method=GET /api/health latency=31ms
+2026-10-23T10:07:54Z INFO  req=00474 method=GET /api/health latency=21ms
+2026-10-23T10:07:55Z INFO  req=00475 method=GET /api/health latency=28ms
+2026-10-23T10:07:56Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:07:57Z INFO  req=00477 method=GET /api/health latency=6ms
+2026-10-23T10:07:58Z INFO  req=00478 method=GET /api/health latency=27ms
+2026-10-23T10:07:59Z INFO  req=00479 method=GET /api/health latency=29ms
+2026-10-23T10:08:00Z INFO  req=00480 method=GET /api/health latency=9ms
+2026-10-23T10:08:01Z INFO  req=00481 method=GET /api/health latency=40ms
+2026-10-23T10:08:02Z WARN  slow query shard=4 retryable=true (duplicate noise 2)
+2026-10-23T10:08:03Z INFO  req=00483 method=GET /api/health latency=8ms
+2026-10-23T10:08:04Z INFO  req=00484 method=GET /api/health latency=19ms
+2026-10-23T10:08:05Z INFO  req=00485 method=GET /api/health latency=37ms
+2026-10-23T10:08:06Z INFO  req=00486 method=GET /api/health latency=17ms
+2026-10-23T10:08:07Z INFO  req=00487 method=GET /api/health latency=13ms
+2026-10-23T10:08:08Z INFO  req=00488 method=GET /api/health latency=12ms
+2026-10-23T10:08:09Z INFO  req=00489 method=GET /api/health latency=10ms
+2026-10-23T10:08:10Z INFO  req=00490 method=GET /api/health latency=38ms
+2026-10-23T10:08:11Z INFO  req=00491 method=GET /api/health latency=5ms
+2026-10-23T10:08:12Z INFO  req=00492 method=GET /api/health latency=16ms
+2026-10-23T10:08:13Z INFO  req=00493 method=GET /api/health latency=15ms
+2026-10-23T10:08:14Z INFO  req=00494 method=GET /api/health latency=7ms
+2026-10-23T10:08:15Z INFO  req=00495 method=GET /api/health latency=3ms
+2026-10-23T10:08:16Z INFO  req=00496 method=GET /api/health latency=31ms
+2026-10-23T10:08:17Z WARN  slow query shard=4 retryable=true (duplicate noise 2)
+2026-10-23T10:08:18Z WARN  slow query shard=6 retryable=true (duplicate noise 3)
+2026-10-23T10:08:19Z INFO  req=00499 method=GET /api/health latency=19ms
+2026-10-23T10:08:20Z INFO  req=00500 method=GET /api/health latency=4ms
+2026-10-23T10:08:21Z INFO  req=00501 method=GET /api/health latency=38ms
+2026-10-23T10:08:22Z INFO  req=00502 method=GET /api/health latency=5ms
+2026-10-23T10:08:23Z INFO  req=00503 method=GET /api/health latency=12ms
+2026-10-23T10:08:24Z INFO  req=00504 method=GET /api/health latency=17ms
+2026-10-23T10:08:25Z INFO  req=00505 method=GET /api/health latency=1ms
+2026-10-23T10:08:26Z INFO  req=00506 method=GET /api/health latency=39ms
+2026-10-23T10:08:27Z INFO  req=00507 method=GET /api/health latency=23ms
+2026-10-23T10:08:28Z INFO  req=00508 method=GET /api/health latency=24ms
+2026-10-23T10:08:29Z INFO  req=00509 method=GET /api/health latency=3ms
+2026-10-23T10:08:30Z INFO  req=00510 method=GET /api/health latency=17ms
+2026-10-23T10:08:31Z INFO  req=00511 method=GET /api/health latency=14ms
+2026-10-23T10:08:32Z WARN  slow query shard=6 retryable=true (duplicate noise 2)
+2026-10-23T10:08:33Z INFO  req=00513 method=GET /api/health latency=24ms
+2026-10-23T10:08:34Z INFO  req=00514 method=GET /api/health latency=20ms
+2026-10-23T10:08:35Z INFO  req=00515 method=GET /api/health latency=3ms
+2026-10-23T10:08:36Z INFO  req=00516 method=GET /api/health latency=36ms
+2026-10-23T10:08:37Z INFO  req=00517 method=GET /api/health latency=27ms
+2026-10-23T10:08:38Z INFO  req=00518 method=GET /api/health latency=26ms
+2026-10-23T10:08:39Z INFO  req=00519 method=GET /api/health latency=10ms
+2026-10-23T10:08:40Z INFO  req=00520 method=GET /api/health latency=6ms
+2026-10-23T10:08:41Z INFO  req=00521 method=GET /api/health latency=26ms
+2026-10-23T10:08:42Z INFO  req=00522 method=GET /api/health latency=27ms
+2026-10-23T10:08:43Z INFO  req=00523 method=POST /api/login ok user=u_523
+2026-10-23T10:08:44Z INFO  req=00524 method=GET /api/health latency=27ms
+2026-10-23T10:08:45Z INFO  req=00525 method=POST /api/login ok user=u_525
+2026-10-23T10:08:46Z INFO  req=00526 method=GET /api/health latency=37ms
+2026-10-23T10:08:47Z WARN  slow query shard=7 retryable=true (duplicate noise 2)
+2026-10-23T10:08:48Z INFO  req=00528 method=GET /api/health latency=24ms
+2026-10-23T10:08:49Z INFO  req=00529 method=GET /api/health latency=26ms
+2026-10-23T10:08:50Z INFO  req=00530 method=GET /api/health latency=14ms
+2026-10-23T10:08:51Z INFO  req=00531 method=POST /api/login ok user=u_531
+2026-10-23T10:08:52Z INFO  req=00532 method=GET /api/health latency=11ms
+2026-10-23T10:08:53Z INFO  req=00533 method=GET /api/health latency=6ms
+2026-10-23T10:08:54Z INFO  req=00534 method=GET /api/health latency=24ms
+2026-10-23T10:08:55Z INFO  req=00535 method=GET /api/health latency=11ms
+2026-10-23T10:08:56Z INFO  req=00536 method=GET /api/health latency=4ms
+2026-10-23T10:08:57Z INFO  req=00537 method=GET /api/health latency=26ms
+2026-10-23T10:08:58Z INFO  req=00538 method=GET /api/health latency=40ms
+2026-10-23T10:08:59Z WARN  slow query shard=3 retryable=true (duplicate noise 4)
+2026-10-23T10:09:00Z INFO  req=00540 method=GET /api/health latency=19ms
+2026-10-23T10:09:01Z INFO  req=00541 method=GET /api/health latency=11ms
+2026-10-23T10:09:02Z WARN  slow query shard=2 retryable=true (duplicate noise 2)
+2026-10-23T10:09:03Z INFO  req=00543 method=GET /api/health latency=13ms
+2026-10-23T10:09:04Z INFO  req=00544 method=GET /api/health latency=3ms
+2026-10-23T10:09:05Z INFO  req=00545 method=POST /api/login ok user=u_545
+2026-10-23T10:09:06Z INFO  req=00546 method=GET /api/health latency=4ms
+2026-10-23T10:09:07Z INFO  req=00547 method=GET /api/health latency=25ms
+2026-10-23T10:09:08Z INFO  req=00548 method=GET /api/health latency=40ms
+2026-10-23T10:09:09Z INFO  req=00549 method=GET /api/health latency=11ms
+2026-10-23T10:09:10Z INFO  req=00550 method=GET /api/health latency=15ms
+2026-10-23T10:09:11Z INFO  req=00551 method=GET /api/health latency=40ms
+2026-10-23T10:09:12Z WARN  slow query shard=8 retryable=true (duplicate noise 2)
+2026-10-23T10:09:13Z INFO  req=00553 method=GET /api/health latency=14ms
+2026-10-23T10:09:14Z INFO  req=00554 method=GET /api/health latency=34ms
+2026-10-23T10:09:15Z INFO  req=00555 method=GET /api/health latency=23ms
+2026-10-23T10:09:16Z INFO  req=00556 method=GET /api/health latency=16ms
+2026-10-23T10:09:17Z INFO  req=00557 method=POST /api/login ok user=u_557
+2026-10-23T10:09:18Z WARN  slow query shard=4 retryable=true (duplicate noise 3)
+2026-10-23T10:09:19Z INFO  req=00559 method=GET /api/health latency=36ms
+2026-10-23T10:09:20Z WARN  slow query shard=1 retryable=true (duplicate noise 0)
+2026-10-23T10:09:21Z INFO  req=00561 method=GET /api/health latency=21ms
+2026-10-23T10:09:22Z INFO  req=00562 method=GET /api/health latency=39ms
+2026-10-23T10:09:23Z INFO  req=00563 method=GET /api/health latency=20ms
+2026-10-23T10:09:24Z INFO  req=00564 method=GET /api/health latency=20ms
+2026-10-23T10:09:25Z INFO  req=00565 method=GET /api/health latency=28ms
+2026-10-23T10:09:26Z INFO  req=00566 method=GET /api/health latency=24ms
+2026-10-23T10:09:27Z INFO  req=00567 method=GET /api/health latency=29ms
+2026-10-23T10:09:28Z INFO  req=00568 method=GET /api/health latency=1ms
+2026-10-23T10:09:29Z INFO  req=00569 method=GET /api/health latency=32ms
+2026-10-23T10:09:30Z INFO  req=00570 method=GET /api/health latency=29ms
+2026-10-23T10:09:31Z INFO  req=00571 method=GET /api/health latency=30ms
+2026-10-23T10:09:32Z WARN  slow query shard=8 retryable=true (duplicate noise 2)
+2026-10-23T10:09:33Z INFO  req=00573 method=GET /api/health latency=5ms
+2026-10-23T10:09:34Z INFO  req=00574 method=GET /api/health latency=28ms
+2026-10-23T10:09:35Z INFO  req=00575 method=GET /api/health latency=29ms
+2026-10-23T10:09:36Z INFO  req=00576 method=GET /api/health latency=3ms
+2026-10-23T10:09:37Z INFO  req=00577 method=GET /api/health latency=9ms
+2026-10-23T10:09:38Z INFO  req=00578 method=GET /api/health latency=21ms
+2026-10-23T10:09:39Z INFO  req=00579 method=GET /api/health latency=33ms
+2026-10-23T10:09:40Z INFO  req=00580 method=GET /api/health latency=33ms
+2026-10-23T10:09:41Z WARN  slow query shard=3 retryable=true (duplicate noise 1)
+2026-10-23T10:09:42Z INFO  req=00582 method=GET /api/health latency=5ms
+2026-10-23T10:09:43Z INFO  req=00583 method=POST /api/login ok user=u_583
+2026-10-23T10:09:44Z INFO  req=00584 method=GET /api/health latency=8ms
+2026-10-23T10:09:45Z INFO  req=00585 method=GET /api/health latency=32ms
+2026-10-23T10:09:46Z INFO  req=00586 method=GET /api/health latency=11ms
+2026-10-23T10:09:47Z INFO  req=00587 method=GET /api/health latency=15ms
+2026-10-23T10:09:48Z INFO  req=00588 method=GET /api/health latency=23ms
+2026-10-23T10:09:49Z INFO  req=00589 method=GET /api/health latency=17ms
+2026-10-23T10:09:50Z INFO  req=00590 method=GET /api/health latency=40ms
+2026-10-23T10:09:51Z INFO  req=00591 method=GET /api/health latency=30ms
+2026-10-23T10:09:52Z INFO  req=00592 method=GET /api/health latency=33ms
+2026-10-23T10:09:53Z INFO  req=00593 method=POST /api/login ok user=u_593
+2026-10-23T10:09:54Z INFO  req=00594 method=GET /api/health latency=38ms
+2026-10-23T10:09:55Z INFO  req=00595 method=GET /api/health latency=33ms
+2026-10-23T10:09:56Z INFO  req=00596 method=GET /api/health latency=24ms
+2026-10-23T10:09:57Z INFO  req=00597 method=GET /api/health latency=12ms
+2026-10-23T10:09:58Z INFO  req=00598 method=GET /api/health latency=18ms
+2026-10-23T10:09:59Z INFO  req=00599 method=GET /api/health latency=25ms
+2026-10-23T10:10:00Z INFO  req=00600 method=GET /api/health latency=17ms
+2026-10-23T10:10:01Z INFO  req=00601 method=GET /api/health latency=34ms
+2026-10-23T10:10:02Z INFO  req=00602 method=GET /api/health latency=24ms
+2026-10-23T10:10:03Z INFO  req=00603 method=POST /api/login ok user=u_603
+2026-10-23T10:10:04Z INFO  req=00604 method=GET /api/health latency=34ms
+2026-10-23T10:10:05Z INFO  req=00605 method=GET /api/health latency=7ms
+2026-10-23T10:10:06Z INFO  req=00606 method=GET /api/health latency=35ms
+2026-10-23T10:10:07Z INFO  req=00607 method=GET /api/health latency=26ms
+2026-10-23T10:10:08Z INFO  req=00608 method=GET /api/health latency=24ms
+2026-10-23T10:10:09Z INFO  req=00609 method=GET /api/health latency=24ms
+2026-10-23T10:10:10Z INFO  req=00610 method=GET /api/health latency=24ms
+2026-10-23T10:10:11Z INFO  req=00611 method=GET /api/health latency=6ms
+2026-10-23T10:10:12Z INFO  req=00612 method=GET /api/health latency=12ms
+2026-10-23T10:10:13Z INFO  req=00613 method=GET /api/health latency=4ms
+2026-10-23T10:10:14Z INFO  req=00614 method=GET /api/health latency=34ms
+2026-10-23T10:10:15Z INFO  req=00615 method=GET /api/health latency=38ms
+2026-10-23T10:10:16Z WARN  slow query shard=6 retryable=true (duplicate noise 1)
+2026-10-23T10:10:17Z INFO  req=00617 method=GET /api/health latency=3ms
+2026-10-23T10:10:18Z INFO  req=00618 method=GET /api/health latency=19ms
+2026-10-23T10:10:19Z INFO  req=00619 method=GET /api/health latency=28ms
+2026-10-23T10:10:20Z INFO  req=00620 method=GET /api/health latency=24ms
+2026-10-23T10:10:21Z WARN  slow query shard=3 retryable=true (duplicate noise 1)
+2026-10-23T10:10:22Z INFO  req=00622 method=GET /api/health latency=40ms
+2026-10-23T10:10:23Z INFO  req=00623 method=GET /api/health latency=2ms
+2026-10-23T10:10:24Z INFO  req=00624 method=GET /api/health latency=37ms
+2026-10-23T10:10:25Z INFO  req=00625 method=GET /api/health latency=7ms
+2026-10-23T10:10:26Z INFO  req=00626 method=GET /api/health latency=35ms
+2026-10-23T10:10:27Z INFO  req=00627 method=GET /api/health latency=38ms
+2026-10-23T10:10:28Z INFO  req=00628 method=GET /api/health latency=9ms
+2026-10-23T10:10:29Z INFO  req=00629 method=GET /api/health latency=40ms
+2026-10-23T10:10:30Z WARN  slow query shard=3 retryable=true (duplicate noise 0)
+2026-10-23T10:10:31Z INFO  req=00631 method=GET /api/health latency=16ms
+2026-10-23T10:10:32Z INFO  req=00632 method=GET /api/health latency=29ms
+2026-10-23T10:10:33Z INFO  req=00633 method=GET /api/health latency=10ms
+2026-10-23T10:10:34Z WARN  slow query shard=5 retryable=true (duplicate noise 4)
+2026-10-23T10:10:35Z INFO  req=00635 method=GET /api/health latency=17ms
+2026-10-23T10:10:36Z INFO  req=00636 method=POST /api/login ok user=u_636
+2026-10-23T10:10:37Z INFO  req=00637 method=GET /api/health latency=36ms
+2026-10-23T10:10:38Z WARN  slow query shard=8 retryable=true (duplicate noise 3)
+2026-10-23T10:10:39Z INFO  req=00639 method=GET /api/health latency=34ms
+2026-10-23T10:10:40Z INFO  req=00640 method=GET /api/health latency=16ms
+2026-10-23T10:10:41Z INFO  req=00641 method=GET /api/health latency=1ms
+2026-10-23T10:10:42Z INFO  req=00642 method=GET /api/health latency=35ms
+2026-10-23T10:10:43Z INFO  req=00643 method=GET /api/health latency=12ms
+2026-10-23T10:10:44Z INFO  req=00644 method=GET /api/health latency=4ms
+2026-10-23T10:10:45Z WARN  slow query shard=2 retryable=true (duplicate noise 0)
+2026-10-23T10:10:46Z INFO  req=00646 method=GET /api/health latency=36ms
+2026-10-23T10:10:47Z INFO  req=00647 method=GET /api/health latency=13ms
+2026-10-23T10:10:48Z INFO  req=00648 method=GET /api/health latency=13ms
+2026-10-23T10:10:49Z INFO  req=00649 method=GET /api/health latency=33ms
+2026-10-23T10:10:50Z INFO  req=00650 method=GET /api/health latency=27ms
+2026-10-23T10:10:51Z WARN  slow query shard=3 retryable=true (duplicate noise 1)
+2026-10-23T10:10:52Z INFO  req=00652 method=GET /api/health latency=5ms
+2026-10-23T10:10:53Z INFO  req=00653 method=GET /api/health latency=4ms
+2026-10-23T10:10:54Z INFO  req=00654 method=POST /api/login ok user=u_654
+2026-10-23T10:10:55Z INFO  req=00655 method=GET /api/health latency=31ms
+2026-10-23T10:10:56Z INFO  req=00656 method=GET /api/health latency=1ms
+2026-10-23T10:10:57Z INFO  req=00657 method=GET /api/health latency=28ms
+2026-10-23T10:10:58Z INFO  req=00658 method=GET /api/health latency=30ms
+2026-10-23T10:10:59Z INFO  req=00659 method=GET /api/health latency=29ms
+2026-10-23T10:11:00Z INFO  req=00660 method=GET /api/health latency=7ms
+2026-10-23T10:11:01Z INFO  req=00661 method=GET /api/health latency=3ms
+2026-10-23T10:11:02Z INFO  req=00662 method=GET /api/health latency=17ms
+2026-10-23T10:11:03Z INFO  req=00663 method=GET /api/health latency=18ms
+2026-10-23T10:11:04Z INFO  req=00664 method=GET /api/health latency=28ms
+2026-10-23T10:11:05Z INFO  req=00665 method=GET /api/health latency=34ms
+2026-10-23T10:11:06Z INFO  req=00666 method=POST /api/login ok user=u_666
+2026-10-23T10:11:07Z INFO  req=00667 method=GET /api/health latency=14ms
+2026-10-23T10:11:08Z INFO  req=00668 method=GET /api/health latency=33ms
+2026-10-23T10:11:09Z INFO  req=00669 method=GET /api/health latency=17ms
+2026-10-23T10:11:10Z WARN  slow query shard=4 retryable=true (duplicate noise 0)
+2026-10-23T10:11:11Z INFO  req=00671 method=POST /api/login ok user=u_671
+2026-10-23T10:11:12Z INFO  req=00672 method=GET /api/health latency=21ms
+2026-10-23T10:11:13Z INFO  req=00673 method=GET /api/health latency=25ms
+2026-10-23T10:11:14Z INFO  req=00674 method=GET /api/health latency=16ms
+2026-10-23T10:11:15Z INFO  req=00675 method=GET /api/health latency=35ms
+2026-10-23T10:11:16Z INFO  req=00676 method=GET /api/health latency=34ms
+2026-10-23T10:11:17Z INFO  req=00677 method=GET /api/health latency=2ms
+2026-10-23T10:11:18Z INFO  req=00678 method=GET /api/health latency=15ms
+2026-10-23T10:11:19Z INFO  req=00679 method=GET /api/health latency=20ms
+2026-10-23T10:11:20Z INFO  req=00680 method=GET /api/health latency=26ms
+2026-10-23T10:11:21Z INFO  req=00681 method=GET /api/health latency=5ms
+2026-10-23T10:11:22Z INFO  req=00682 method=GET /api/health latency=11ms
+2026-10-23T10:11:23Z INFO  req=00683 method=GET /api/health latency=2ms
+2026-10-23T10:11:24Z INFO  req=00684 method=GET /api/health latency=40ms
+2026-10-23T10:11:25Z WARN  slow query shard=6 retryable=true (duplicate noise 0)
+2026-10-23T10:11:26Z INFO  req=00686 method=POST /api/login ok user=u_686
+2026-10-23T10:11:27Z INFO  req=00687 method=GET /api/health latency=2ms
+2026-10-23T10:11:28Z INFO  req=00688 method=GET /api/health latency=3ms
+2026-10-23T10:11:29Z INFO  req=00689 method=GET /api/health latency=3ms
+2026-10-23T10:11:30Z INFO  req=00690 method=GET /api/health latency=38ms
+2026-10-23T10:11:31Z INFO  req=00691 method=GET /api/health latency=13ms
+2026-10-23T10:11:32Z WARN  slow query shard=2 retryable=true (duplicate noise 2)
+2026-10-23T10:11:33Z WARN  slow query shard=7 retryable=true (duplicate noise 3)
+2026-10-23T10:11:34Z INFO  req=00694 method=GET /api/health latency=14ms
+2026-10-23T10:11:35Z INFO  req=00695 method=GET /api/health latency=3ms
+2026-10-23T10:11:36Z INFO  req=00696 method=GET /api/health latency=6ms
+2026-10-23T10:11:37Z WARN  slow query shard=5 retryable=true (duplicate noise 2)
+2026-10-23T10:11:38Z INFO  req=00698 method=GET /api/health latency=9ms
+2026-10-23T10:11:39Z INFO  req=00699 method=GET /api/health latency=14ms
+2026-10-23T10:11:40Z INFO  req=00700 method=GET /api/health latency=22ms
+2026-10-23T10:11:41Z INFO  req=00701 method=GET /api/health latency=2ms
+2026-10-23T10:11:42Z INFO  req=00702 method=GET /api/health latency=19ms
+2026-10-23T10:11:43Z INFO  req=00703 method=GET /api/health latency=24ms
+2026-10-23T10:11:44Z WARN  slow query shard=8 retryable=true (duplicate noise 4)
+2026-10-23T10:11:45Z WARN  slow query shard=1 retryable=true (duplicate noise 0)
+2026-10-23T10:11:46Z INFO  req=00706 method=GET /api/health latency=2ms
+2026-10-23T10:11:47Z INFO  req=00707 method=GET /api/health latency=7ms
+2026-10-23T10:11:48Z INFO  req=00708 method=GET /api/health latency=4ms
+2026-10-23T10:11:49Z INFO  req=00709 method=GET /api/health latency=14ms
+2026-10-23T10:11:50Z INFO  req=00710 method=GET /api/health latency=6ms
+2026-10-23T10:11:51Z INFO  req=00711 method=GET /api/health latency=19ms
+2026-10-23T10:11:52Z INFO  req=00712 method=GET /api/health latency=1ms
+2026-10-23T10:11:53Z INFO  req=00713 method=GET /api/health latency=19ms
+2026-10-23T10:11:54Z INFO  req=00714 method=GET /api/health latency=4ms
+2026-10-23T10:11:55Z INFO  req=00715 method=GET /api/health latency=32ms
+2026-10-23T10:11:56Z INFO  req=00716 method=GET /api/health latency=12ms
+2026-10-23T10:11:57Z INFO  req=00717 method=POST /api/login ok user=u_717
+2026-10-23T10:11:58Z INFO  req=00718 method=GET /api/health latency=33ms
+2026-10-23T10:11:59Z INFO  req=00719 method=GET /api/health latency=11ms
+2026-10-23T10:12:00Z INFO  req=00720 method=GET /api/health latency=14ms
+2026-10-23T10:12:01Z INFO  req=00721 method=POST /api/login ok user=u_721
+2026-10-23T10:12:02Z INFO  req=00722 method=GET /api/health latency=11ms
+2026-10-23T10:12:03Z INFO  req=00723 method=GET /api/health latency=6ms
+2026-10-23T10:12:04Z INFO  req=00724 method=GET /api/health latency=36ms
+2026-10-23T10:12:05Z INFO  req=00725 method=GET /api/health latency=21ms
+2026-10-23T10:12:06Z INFO  req=00726 method=GET /api/health latency=26ms
+2026-10-23T10:12:07Z WARN  slow query shard=2 retryable=true (duplicate noise 2)
+2026-10-23T10:12:08Z INFO  req=00728 method=GET /api/health latency=2ms
+2026-10-23T10:12:09Z INFO  req=00729 method=GET /api/health latency=20ms
+2026-10-23T10:12:10Z INFO  req=00730 method=GET /api/health latency=35ms
+2026-10-23T10:12:11Z INFO  req=00731 method=GET /api/health latency=25ms
+2026-10-23T10:12:12Z INFO  req=00732 method=POST /api/login ok user=u_732
+2026-10-23T10:12:13Z INFO  req=00733 method=GET /api/health latency=30ms
+2026-10-23T10:12:14Z INFO  req=00734 method=GET /api/health latency=39ms
+2026-10-23T10:12:15Z INFO  req=00735 method=GET /api/health latency=39ms
+2026-10-23T10:12:16Z INFO  req=00736 method=GET /api/health latency=23ms
+2026-10-23T10:12:17Z INFO  req=00737 method=GET /api/health latency=34ms
+2026-10-23T10:12:18Z INFO  req=00738 method=GET /api/health latency=29ms
+2026-10-23T10:12:19Z INFO  req=00739 method=GET /api/health latency=21ms
+2026-10-23T10:12:20Z INFO  req=00740 method=GET /api/health latency=29ms
+2026-10-23T10:12:21Z INFO  req=00741 method=GET /api/health latency=17ms
+2026-10-23T10:12:22Z INFO  req=00742 method=GET /api/health latency=9ms
+2026-10-23T10:12:23Z INFO  req=00743 method=GET /api/health latency=16ms
+2026-10-23T10:12:24Z INFO  req=00744 method=GET /api/health latency=18ms
+2026-10-23T10:12:25Z INFO  req=00745 method=GET /api/health latency=40ms
+2026-10-23T10:12:26Z INFO  req=00746 method=GET /api/health latency=10ms
+2026-10-23T10:12:27Z INFO  req=00747 method=POST /api/login ok user=u_747
+2026-10-23T10:12:28Z INFO  req=00748 method=GET /api/health latency=39ms
+2026-10-23T10:12:29Z INFO  req=00749 method=GET /api/health latency=11ms
+2026-10-23T10:12:30Z INFO  req=00750 method=GET /api/health latency=13ms
+2026-10-23T10:12:31Z INFO  req=00751 method=GET /api/health latency=7ms
+2026-10-23T10:12:32Z INFO  req=00752 method=GET /api/health latency=7ms
+2026-10-23T10:12:33Z INFO  req=00753 method=GET /api/health latency=10ms
+2026-10-23T10:12:34Z INFO  req=00754 method=POST /api/login ok user=u_754
+2026-10-23T10:12:35Z INFO  req=00755 method=GET /api/health latency=20ms
+2026-10-23T10:12:36Z INFO  req=00756 method=GET /api/health latency=13ms
+2026-10-23T10:12:37Z INFO  req=00757 method=GET /api/health latency=7ms
+2026-10-23T10:12:38Z INFO  req=00758 method=GET /api/health latency=25ms
+2026-10-23T10:12:39Z INFO  req=00759 method=GET /api/health latency=1ms
+2026-10-23T10:12:40Z INFO  req=00760 method=GET /api/health latency=28ms
+2026-10-23T10:12:41Z INFO  req=00761 method=GET /api/health latency=33ms
+2026-10-23T10:12:42Z INFO  req=00762 method=POST /api/login ok user=u_762
+2026-10-23T10:12:43Z INFO  req=00763 method=GET /api/health latency=2ms
+2026-10-23T10:12:44Z INFO  req=00764 method=GET /api/health latency=39ms
+2026-10-23T10:12:45Z INFO  req=00765 method=GET /api/health latency=1ms
+2026-10-23T10:12:46Z INFO  req=00766 method=GET /api/health latency=28ms
+2026-10-23T10:12:47Z INFO  req=00767 method=GET /api/health latency=38ms
+2026-10-23T10:12:48Z INFO  req=00768 method=GET /api/health latency=27ms
+2026-10-23T10:12:49Z WARN  slow query shard=4 retryable=true (duplicate noise 4)
+2026-10-23T10:12:50Z INFO  req=00770 method=GET /api/health latency=8ms
+2026-10-23T10:12:51Z INFO  req=00771 method=GET /api/health latency=21ms
+2026-10-23T10:12:52Z INFO  req=00772 method=GET /api/health latency=7ms
+2026-10-23T10:12:53Z WARN  slow query shard=4 retryable=true (duplicate noise 3)
+2026-10-23T10:12:54Z INFO  req=00774 method=GET /api/health latency=11ms
+2026-10-23T10:12:55Z INFO  req=00775 method=GET /api/health latency=28ms
+2026-10-23T10:12:56Z INFO  req=00776 method=GET /api/health latency=2ms
+2026-10-23T10:12:57Z INFO  req=00777 method=GET /api/health latency=27ms
+2026-10-23T10:12:58Z INFO  req=00778 method=GET /api/health latency=12ms
+2026-10-23T10:12:59Z WARN  slow query shard=6 retryable=true (duplicate noise 4)
+2026-10-23T10:13:00Z INFO  req=00780 method=GET /api/health latency=25ms
+2026-10-23T10:13:01Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:13:02Z INFO  req=00782 method=GET /api/health latency=35ms
+2026-10-23T10:13:03Z INFO  req=00783 method=GET /api/health latency=13ms
+2026-10-23T10:13:04Z INFO  req=00784 method=GET /api/health latency=7ms
+2026-10-23T10:13:05Z WARN  slow query shard=8 retryable=true (duplicate noise 0)
+2026-10-23T10:13:06Z INFO  req=00786 method=GET /api/health latency=31ms
+2026-10-23T10:13:07Z INFO  req=00787 method=GET /api/health latency=24ms
+2026-10-23T10:13:08Z INFO  req=00788 method=GET /api/health latency=27ms
+2026-10-23T10:13:09Z INFO  req=00789 method=GET /api/health latency=30ms
+2026-10-23T10:13:10Z INFO  req=00790 method=GET /api/health latency=12ms
+2026-10-23T10:13:11Z INFO  req=00791 method=GET /api/health latency=8ms
+2026-10-23T10:13:12Z INFO  req=00792 method=GET /api/health latency=40ms
+2026-10-23T10:13:13Z INFO  req=00793 method=GET /api/health latency=4ms
+2026-10-23T10:13:14Z INFO  req=00794 method=GET /api/health latency=25ms
+2026-10-23T10:13:15Z INFO  req=00795 method=GET /api/health latency=1ms
+2026-10-23T10:13:16Z INFO  req=00796 method=GET /api/health latency=27ms
+2026-10-23T10:13:17Z INFO  req=00797 method=GET /api/health latency=23ms
+2026-10-23T10:13:18Z INFO  req=00798 method=GET /api/health latency=7ms
+2026-10-23T10:13:19Z INFO  req=00799 method=GET /api/health latency=26ms
+2026-10-23T10:13:20Z INFO  req=00800 method=POST /api/login ok user=u_800
+2026-10-23T10:13:21Z INFO  req=00801 method=GET /api/health latency=15ms
+2026-10-23T10:13:22Z INFO  req=00802 method=POST /api/login ok user=u_802
+2026-10-23T10:13:23Z INFO  req=00803 method=POST /api/login ok user=u_803
+2026-10-23T10:13:24Z INFO  req=00804 method=GET /api/health latency=11ms
+2026-10-23T10:13:25Z INFO  req=00805 method=GET /api/health latency=5ms
+2026-10-23T10:13:26Z WARN  slow query shard=4 retryable=true (duplicate noise 1)
+2026-10-23T10:13:27Z INFO  req=00807 method=GET /api/health latency=36ms
+2026-10-23T10:13:28Z INFO  req=00808 method=GET /api/health latency=10ms
+2026-10-23T10:13:29Z INFO  req=00809 method=GET /api/health latency=27ms
+2026-10-23T10:13:30Z INFO  req=00810 method=GET /api/health latency=19ms
+2026-10-23T10:13:31Z INFO  req=00811 method=GET /api/health latency=9ms
+2026-10-23T10:13:32Z INFO  req=00812 method=GET /api/health latency=31ms
+2026-10-23T10:13:33Z INFO  req=00813 method=GET /api/health latency=15ms
+2026-10-23T10:13:34Z INFO  req=00814 method=GET /api/health latency=25ms
+2026-10-23T10:13:35Z INFO  req=00815 method=GET /api/health latency=28ms
+2026-10-23T10:13:36Z INFO  req=00816 method=GET /api/health latency=31ms
+2026-10-23T10:13:37Z INFO  req=00817 method=GET /api/health latency=18ms
+2026-10-23T10:13:38Z INFO  req=00818 method=GET /api/health latency=20ms
+2026-10-23T10:13:39Z INFO  req=00819 method=GET /api/health latency=32ms
+2026-10-23T10:13:40Z INFO  req=00820 method=GET /api/health latency=6ms
+2026-10-23T10:13:41Z INFO  req=00821 method=GET /api/health latency=24ms
+2026-10-23T10:13:42Z INFO  req=00822 method=GET /api/health latency=20ms
+2026-10-23T10:13:43Z WARN  slow query shard=1 retryable=true (duplicate noise 3)
+2026-10-23T10:13:44Z INFO  req=00824 method=GET /api/health latency=37ms
+2026-10-23T10:13:45Z WARN  slow query shard=3 retryable=true (duplicate noise 0)
+2026-10-23T10:13:46Z INFO  req=00826 method=GET /api/health latency=23ms
+2026-10-23T10:13:47Z INFO  req=00827 method=GET /api/health latency=1ms
+2026-10-23T10:13:48Z INFO  req=00828 method=GET /api/health latency=14ms
+2026-10-23T10:13:49Z INFO  req=00829 method=POST /api/login ok user=u_829
+2026-10-23T10:13:50Z INFO  req=00830 method=GET /api/health latency=17ms
+2026-10-23T10:13:51Z INFO  req=00831 method=GET /api/health latency=38ms
+2026-10-23T10:13:52Z INFO  req=00832 method=GET /api/health latency=15ms
+2026-10-23T10:13:53Z INFO  req=00833 method=GET /api/health latency=29ms
+2026-10-23T10:13:54Z INFO  req=00834 method=GET /api/health latency=10ms
+2026-10-23T10:13:55Z INFO  req=00835 method=GET /api/health latency=26ms
+2026-10-23T10:13:56Z INFO  req=00836 method=GET /api/health latency=11ms
+2026-10-23T10:13:57Z INFO  req=00837 method=GET /api/health latency=39ms
+2026-10-23T10:13:58Z INFO  req=00838 method=POST /api/login ok user=u_838
+2026-10-23T10:13:59Z INFO  req=00839 method=GET /api/health latency=36ms
+2026-10-23T10:14:00Z INFO  req=00840 method=GET /api/health latency=20ms
+2026-10-23T10:14:01Z INFO  req=00841 method=GET /api/health latency=14ms
+2026-10-23T10:14:02Z INFO  req=00842 method=GET /api/health latency=29ms
+2026-10-23T10:14:03Z INFO  req=00843 method=GET /api/health latency=8ms
+2026-10-23T10:14:04Z INFO  req=00844 method=GET /api/health latency=17ms
+2026-10-23T10:14:05Z INFO  req=00845 method=GET /api/health latency=9ms
+2026-10-23T10:14:06Z INFO  req=00846 method=GET /api/health latency=36ms
+2026-10-23T10:14:07Z INFO  req=00847 method=GET /api/health latency=30ms
+2026-10-23T10:14:08Z WARN  slow query shard=8 retryable=true (duplicate noise 3)
+2026-10-23T10:14:09Z INFO  req=00849 method=GET /api/health latency=11ms
+2026-10-23T10:14:10Z INFO  req=00850 method=GET /api/health latency=1ms
+2026-10-23T10:14:11Z INFO  req=00851 method=GET /api/health latency=21ms
+2026-10-23T10:14:12Z INFO  req=00852 method=GET /api/health latency=37ms
+2026-10-23T10:14:13Z INFO  req=00853 method=GET /api/health latency=19ms
+2026-10-23T10:14:14Z WARN  slow query shard=6 retryable=true (duplicate noise 4)
+2026-10-23T10:14:15Z INFO  req=00855 method=GET /api/health latency=5ms
+2026-10-23T10:14:16Z INFO  req=00856 method=GET /api/health latency=24ms
+2026-10-23T10:14:17Z INFO  req=00857 method=GET /api/health latency=2ms
+2026-10-23T10:14:18Z INFO  req=00858 method=GET /api/health latency=3ms
+2026-10-23T10:14:19Z INFO  req=00859 method=GET /api/health latency=22ms
+2026-10-23T10:14:20Z WARN  slow query shard=2 retryable=true (duplicate noise 0)
+2026-10-23T10:14:21Z INFO  req=00861 method=GET /api/health latency=32ms
+2026-10-23T10:14:22Z INFO  req=00862 method=GET /api/health latency=10ms
+2026-10-23T10:14:23Z INFO  req=00863 method=GET /api/health latency=27ms
+2026-10-23T10:14:24Z INFO  req=00864 method=GET /api/health latency=22ms
+2026-10-23T10:14:25Z INFO  req=00865 method=GET /api/health latency=24ms
+2026-10-23T10:14:26Z INFO  req=00866 method=GET /api/health latency=34ms
+2026-10-23T10:14:27Z INFO  req=00867 method=GET /api/health latency=14ms
+2026-10-23T10:14:28Z INFO  req=00868 method=GET /api/health latency=22ms
+2026-10-23T10:14:29Z INFO  req=00869 method=GET /api/health latency=36ms
+2026-10-23T10:14:30Z INFO  req=00870 method=GET /api/health latency=19ms
+2026-10-23T10:14:31Z INFO  req=00871 method=GET /api/health latency=32ms
+2026-10-23T10:14:32Z INFO  req=00872 method=GET /api/health latency=33ms
+2026-10-23T10:14:33Z INFO  req=00873 method=POST /api/login ok user=u_873
+2026-10-23T10:14:34Z WARN  slow query shard=6 retryable=true (duplicate noise 4)
+2026-10-23T10:14:35Z INFO  req=00875 method=POST /api/login ok user=u_875
+2026-10-23T10:14:36Z INFO  req=00876 method=GET /api/health latency=8ms
+2026-10-23T10:14:37Z INFO  req=00877 method=GET /api/health latency=21ms
+2026-10-23T10:14:38Z INFO  req=00878 method=GET /api/health latency=9ms
+2026-10-23T10:14:39Z INFO  req=00879 method=GET /api/health latency=6ms
+2026-10-23T10:14:40Z INFO  req=00880 method=GET /api/health latency=3ms
+2026-10-23T10:14:41Z INFO  req=00881 method=GET /api/health latency=36ms
+2026-10-23T10:14:42Z WARN  slow query shard=1 retryable=true (duplicate noise 2)
+2026-10-23T10:14:43Z INFO  req=00883 method=GET /api/health latency=7ms
+2026-10-23T10:14:44Z INFO  req=00884 method=GET /api/health latency=13ms
+2026-10-23T10:14:45Z WARN  slow query shard=8 retryable=true (duplicate noise 0)
+2026-10-23T10:14:46Z INFO  req=00886 method=GET /api/health latency=4ms
+2026-10-23T10:14:47Z INFO  req=00887 method=GET /api/health latency=35ms
+2026-10-23T10:14:48Z INFO  req=00888 method=GET /api/health latency=40ms
+2026-10-23T10:14:49Z INFO  req=00889 method=GET /api/health latency=39ms
+2026-10-23T10:14:50Z WARN  slow query shard=2 retryable=true (duplicate noise 0)
+2026-10-23T10:14:51Z INFO  req=00891 method=GET /api/health latency=30ms
+2026-10-23T10:14:52Z INFO  req=00892 method=GET /api/health latency=12ms
+2026-10-23T10:14:53Z INFO  req=00893 method=GET /api/health latency=12ms
+2026-10-23T10:14:54Z WARN  slow query shard=7 retryable=true (duplicate noise 4)
+2026-10-23T10:14:55Z INFO  req=00895 method=GET /api/health latency=1ms
+2026-10-23T10:14:56Z INFO  req=00896 method=GET /api/health latency=9ms
+2026-10-23T10:14:57Z INFO  req=00897 method=GET /api/health latency=36ms
+2026-10-23T10:14:58Z INFO  req=00898 method=GET /api/health latency=20ms
+2026-10-23T10:14:59Z INFO  req=00899 method=GET /api/health latency=3ms
+2026-10-23T10:15:00Z INFO  req=00900 method=GET /api/health latency=28ms
+2026-10-23T10:15:01Z INFO  req=00901 method=GET /api/health latency=38ms
+2026-10-23T10:15:02Z INFO  req=00902 method=POST /api/login ok user=u_902
+2026-10-23T10:15:03Z INFO  req=00903 method=GET /api/health latency=37ms
+2026-10-23T10:15:04Z INFO  req=00904 method=GET /api/health latency=8ms
+2026-10-23T10:15:05Z INFO  req=00905 method=GET /api/health latency=27ms
+2026-10-23T10:15:06Z INFO  req=00906 method=GET /api/health latency=26ms
+2026-10-23T10:15:07Z INFO  req=00907 method=GET /api/health latency=1ms
+2026-10-23T10:15:08Z INFO  req=00908 method=GET /api/health latency=39ms
+2026-10-23T10:15:09Z INFO  req=00909 method=GET /api/health latency=10ms
+2026-10-23T10:15:10Z INFO  req=00910 method=GET /api/health latency=27ms
+2026-10-23T10:15:11Z INFO  req=00911 method=GET /api/health latency=6ms
+2026-10-23T10:15:12Z INFO  req=00912 method=GET /api/health latency=14ms
+2026-10-23T10:15:13Z WARN  slow query shard=1 retryable=true (duplicate noise 3)
+2026-10-23T10:15:14Z INFO  req=00914 method=GET /api/health latency=1ms
+2026-10-23T10:15:15Z INFO  req=00915 method=GET /api/health latency=8ms
+2026-10-23T10:15:16Z INFO  req=00916 method=POST /api/login ok user=u_916
+2026-10-23T10:15:17Z WARN  slow query shard=4 retryable=true (duplicate noise 2)
+2026-10-23T10:15:18Z WARN  slow query shard=3 retryable=true (duplicate noise 3)
+2026-10-23T10:15:19Z INFO  req=00919 method=GET /api/health latency=18ms
+2026-10-23T10:15:20Z INFO  req=00920 method=GET /api/health latency=16ms
+2026-10-23T10:15:21Z INFO  req=00921 method=GET /api/health latency=12ms
+2026-10-23T10:15:22Z WARN  slow query shard=6 retryable=true (duplicate noise 2)
+2026-10-23T10:15:23Z INFO  req=00923 method=GET /api/health latency=10ms
+2026-10-23T10:15:24Z INFO  req=00924 method=GET /api/health latency=6ms
+2026-10-23T10:15:25Z INFO  req=00925 method=GET /api/health latency=36ms
+2026-10-23T10:15:26Z INFO  req=00926 method=GET /api/health latency=30ms
+2026-10-23T10:15:27Z INFO  req=00927 method=GET /api/health latency=17ms
+2026-10-23T10:15:28Z WARN  slow query shard=1 retryable=true (duplicate noise 3)
+2026-10-23T10:15:29Z INFO  req=00929 method=GET /api/health latency=1ms
+2026-10-23T10:15:30Z INFO  req=00930 method=GET /api/health latency=40ms
+2026-10-23T10:15:31Z INFO  req=00931 method=GET /api/health latency=20ms
+2026-10-23T10:15:32Z INFO  req=00932 method=GET /api/health latency=39ms
+2026-10-23T10:15:33Z INFO  req=00933 method=GET /api/health latency=32ms
+2026-10-23T10:15:34Z INFO  req=00934 method=GET /api/health latency=21ms
+2026-10-23T10:15:35Z INFO  req=00935 method=GET /api/health latency=37ms
+2026-10-23T10:15:36Z INFO  req=00936 method=GET /api/health latency=31ms
+2026-10-23T10:15:37Z INFO  req=00937 method=GET /api/health latency=10ms
+2026-10-23T10:15:38Z INFO  req=00938 method=POST /api/login ok user=u_938
+2026-10-23T10:15:39Z INFO  req=00939 method=GET /api/health latency=11ms
+2026-10-23T10:15:40Z INFO  req=00940 method=GET /api/health latency=27ms
+2026-10-23T10:15:41Z INFO  req=00941 method=GET /api/health latency=29ms
+2026-10-23T10:15:42Z INFO  req=00942 method=POST /api/login ok user=u_942
+2026-10-23T10:15:43Z INFO  req=00943 method=GET /api/health latency=37ms
+2026-10-23T10:15:44Z INFO  req=00944 method=GET /api/health latency=18ms
+2026-10-23T10:15:45Z INFO  req=00945 method=GET /api/health latency=39ms
+2026-10-23T10:15:46Z INFO  req=00946 method=GET /api/health latency=39ms
+2026-10-23T10:15:47Z INFO  req=00947 method=GET /api/health latency=1ms
+2026-10-23T10:15:48Z WARN  slow query shard=5 retryable=true (duplicate noise 3)
+2026-10-23T10:15:49Z INFO  req=00949 method=GET /api/health latency=16ms
+2026-10-23T10:15:50Z INFO  req=00950 method=GET /api/health latency=25ms
+2026-10-23T10:15:51Z INFO  req=00951 method=GET /api/health latency=15ms
+2026-10-23T10:15:52Z WARN  slow query shard=5 retryable=true (duplicate noise 2)
+2026-10-23T10:15:53Z INFO  req=00953 method=GET /api/health latency=21ms
+2026-10-23T10:15:54Z INFO  req=00954 method=GET /api/health latency=28ms
+2026-10-23T10:15:55Z INFO  req=00955 method=GET /api/health latency=3ms
+2026-10-23T10:15:56Z INFO  req=00956 method=GET /api/health latency=10ms
+2026-10-23T10:15:57Z WARN  slow query shard=3 retryable=true (duplicate noise 2)
+2026-10-23T10:15:58Z INFO  req=00958 method=GET /api/health latency=36ms
+2026-10-23T10:15:59Z INFO  req=00959 method=GET /api/health latency=32ms
+2026-10-23T10:16:00Z INFO  req=00960 method=GET /api/health latency=6ms
+2026-10-23T10:16:01Z INFO  req=00961 method=GET /api/health latency=32ms
+2026-10-23T10:16:02Z INFO  req=00962 method=GET /api/health latency=13ms
+2026-10-23T10:16:03Z INFO  req=00963 method=GET /api/health latency=15ms
+2026-10-23T10:16:04Z INFO  req=00964 method=GET /api/health latency=4ms
+2026-10-23T10:16:05Z INFO  req=00965 method=GET /api/health latency=30ms
+2026-10-23T10:16:06Z INFO  req=00966 method=GET /api/health latency=17ms
+2026-10-23T10:16:07Z INFO  req=00967 method=GET /api/health latency=1ms
+2026-10-23T10:16:08Z INFO  req=00968 method=GET /api/health latency=30ms
+2026-10-23T10:16:09Z INFO  req=00969 method=GET /api/health latency=35ms
+2026-10-23T10:16:10Z WARN  slow query shard=2 retryable=true (duplicate noise 0)
+2026-10-23T10:16:11Z INFO  req=00971 method=GET /api/health latency=38ms
+2026-10-23T10:16:12Z INFO  req=00972 method=GET /api/health latency=17ms
+2026-10-23T10:16:13Z WARN  slow query shard=6 retryable=true (duplicate noise 3)
+2026-10-23T10:16:14Z INFO  req=00974 method=GET /api/health latency=38ms
+2026-10-23T10:16:15Z INFO  req=00975 method=GET /api/health latency=14ms
+2026-10-23T10:16:16Z INFO  req=00976 method=GET /api/health latency=12ms
+2026-10-23T10:16:17Z WARN  slow query shard=5 retryable=true (duplicate noise 2)
+2026-10-23T10:16:18Z INFO  req=00978 method=GET /api/health latency=37ms
+2026-10-23T10:16:19Z INFO  req=00979 method=GET /api/health latency=34ms
+2026-10-23T10:16:20Z WARN  slow query shard=4 retryable=true (duplicate noise 0)
+2026-10-23T10:16:21Z INFO  req=00981 method=GET /api/health latency=32ms
+2026-10-23T10:16:22Z INFO  req=00982 method=GET /api/health latency=7ms
+2026-10-23T10:16:23Z INFO  req=00983 method=GET /api/health latency=30ms
+2026-10-23T10:16:24Z INFO  req=00984 method=GET /api/health latency=10ms
+2026-10-23T10:16:25Z INFO  req=00985 method=GET /api/health latency=2ms
+2026-10-23T10:16:26Z INFO  req=00986 method=GET /api/health latency=34ms
+2026-10-23T10:16:27Z INFO  req=00987 method=GET /api/health latency=7ms
+2026-10-23T10:16:28Z INFO  req=00988 method=GET /api/health latency=37ms
+2026-10-23T10:16:29Z INFO  req=00989 method=GET /api/health latency=37ms
+2026-10-23T10:16:30Z INFO  req=00990 method=GET /api/health latency=18ms
+2026-10-23T10:16:31Z INFO  req=00991 method=GET /api/health latency=29ms
+2026-10-23T10:16:32Z INFO  req=00992 method=GET /api/health latency=39ms
+2026-10-23T10:16:33Z INFO  req=00993 method=POST /api/login ok user=u_993
+2026-10-23T10:16:34Z INFO  req=00994 method=GET /api/health latency=3ms
+2026-10-23T10:16:35Z INFO  req=00995 method=GET /api/health latency=12ms
+2026-10-23T10:16:36Z INFO  req=00996 method=GET /api/health latency=2ms
+2026-10-23T10:16:37Z INFO  req=00997 method=GET /api/health latency=36ms
+2026-10-23T10:16:38Z INFO  req=00998 method=GET /api/health latency=30ms
+2026-10-23T10:16:39Z INFO  req=00999 method=GET /api/health latency=5ms
+2026-10-23T10:16:40Z WARN  slow query shard=7 retryable=true (duplicate noise 0)
+2026-10-23T10:16:41Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:16:42Z INFO  req=01002 method=GET /api/health latency=37ms
+2026-10-23T10:16:43Z INFO  req=01003 method=GET /api/health latency=6ms
+2026-10-23T10:16:44Z INFO  req=01004 method=POST /api/login ok user=u_1004
+2026-10-23T10:16:45Z INFO  req=01005 method=GET /api/health latency=26ms
+2026-10-23T10:16:46Z INFO  req=01006 method=GET /api/health latency=11ms
+2026-10-23T10:16:47Z INFO  req=01007 method=GET /api/health latency=16ms
+2026-10-23T10:16:48Z INFO  req=01008 method=POST /api/login ok user=u_1008
+2026-10-23T10:16:49Z INFO  req=01009 method=GET /api/health latency=3ms
+2026-10-23T10:16:50Z INFO  req=01010 method=POST /api/login ok user=u_1010
+2026-10-23T10:16:51Z INFO  req=01011 method=POST /api/login ok user=u_1011
+2026-10-23T10:16:52Z INFO  req=01012 method=GET /api/health latency=36ms
+2026-10-23T10:16:53Z WARN  slow query shard=1 retryable=true (duplicate noise 3)
+2026-10-23T10:16:54Z INFO  req=01014 method=GET /api/health latency=33ms
+2026-10-23T10:16:55Z INFO  req=01015 method=GET /api/health latency=31ms
+2026-10-23T10:16:56Z INFO  req=01016 method=GET /api/health latency=10ms
+2026-10-23T10:16:57Z INFO  req=01017 method=GET /api/health latency=1ms
+2026-10-23T10:16:58Z INFO  req=01018 method=POST /api/login ok user=u_1018
+2026-10-23T10:16:59Z INFO  req=01019 method=GET /api/health latency=20ms
+2026-10-23T10:17:00Z INFO  req=01020 method=GET /api/health latency=29ms
+2026-10-23T10:17:01Z INFO  req=01021 method=GET /api/health latency=7ms
+2026-10-23T10:17:02Z INFO  req=01022 method=GET /api/health latency=24ms
+2026-10-23T10:17:03Z INFO  req=01023 method=GET /api/health latency=8ms
+2026-10-23T10:17:04Z INFO  req=01024 method=GET /api/health latency=25ms
+2026-10-23T10:17:05Z INFO  req=01025 method=GET /api/health latency=16ms
+2026-10-23T10:17:06Z WARN  slow query shard=1 retryable=true (duplicate noise 1)
+2026-10-23T10:17:07Z INFO  req=01027 method=GET /api/health latency=13ms
+2026-10-23T10:17:08Z INFO  req=01028 method=GET /api/health latency=11ms
+2026-10-23T10:17:09Z WARN  slow query shard=4 retryable=true (duplicate noise 4)
+2026-10-23T10:17:10Z INFO  req=01030 method=GET /api/health latency=40ms
+2026-10-23T10:17:11Z WARN  slow query shard=3 retryable=true (duplicate noise 1)
+2026-10-23T10:17:12Z INFO  req=01032 method=GET /api/health latency=7ms
+2026-10-23T10:17:13Z WARN  slow query shard=7 retryable=true (duplicate noise 3)
+2026-10-23T10:17:14Z WARN  slow query shard=2 retryable=true (duplicate noise 4)
+2026-10-23T10:17:15Z INFO  req=01035 method=GET /api/health latency=22ms
+2026-10-23T10:17:16Z INFO  req=01036 method=GET /api/health latency=15ms
+2026-10-23T10:17:17Z INFO  req=01037 method=GET /api/health latency=24ms
+2026-10-23T10:17:18Z INFO  req=01038 method=GET /api/health latency=15ms
+2026-10-23T10:17:19Z INFO  req=01039 method=GET /api/health latency=12ms
+2026-10-23T10:17:20Z INFO  req=01040 method=GET /api/health latency=36ms
+2026-10-23T10:17:21Z WARN  slow query shard=8 retryable=true (duplicate noise 1)
+2026-10-23T10:17:22Z WARN  slow query shard=5 retryable=true (duplicate noise 2)
+2026-10-23T10:17:23Z INFO  req=01043 method=GET /api/health latency=16ms
+2026-10-23T10:17:24Z INFO  req=01044 method=GET /api/health latency=18ms
+2026-10-23T10:17:25Z INFO  req=01045 method=GET /api/health latency=19ms
+2026-10-23T10:17:26Z INFO  req=01046 method=GET /api/health latency=11ms
+2026-10-23T10:17:27Z INFO  req=01047 method=GET /api/health latency=7ms
+2026-10-23T10:17:28Z INFO  req=01048 method=GET /api/health latency=31ms
+2026-10-23T10:17:29Z INFO  req=01049 method=GET /api/health latency=33ms
+2026-10-23T10:17:30Z INFO  req=01050 method=GET /api/health latency=14ms
+2026-10-23T10:17:31Z INFO  req=01051 method=GET /api/health latency=19ms
+2026-10-23T10:17:32Z INFO  req=01052 method=GET /api/health latency=13ms
+2026-10-23T10:17:33Z INFO  req=01053 method=POST /api/login ok user=u_1053
+2026-10-23T10:17:34Z INFO  req=01054 method=GET /api/health latency=17ms
+2026-10-23T10:17:35Z INFO  req=01055 method=POST /api/login ok user=u_1055
+2026-10-23T10:17:36Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:17:37Z INFO  req=01057 method=GET /api/health latency=27ms
+2026-10-23T10:17:38Z WARN  slow query shard=1 retryable=true (duplicate noise 3)
+2026-10-23T10:17:39Z WARN  slow query shard=5 retryable=true (duplicate noise 4)
+2026-10-23T10:17:40Z INFO  req=01060 method=GET /api/health latency=2ms
+2026-10-23T10:17:41Z INFO  req=01061 method=GET /api/health latency=33ms
+2026-10-23T10:17:42Z INFO  req=01062 method=GET /api/health latency=9ms
+2026-10-23T10:17:43Z INFO  req=01063 method=GET /api/health latency=34ms
+2026-10-23T10:17:44Z INFO  req=01064 method=GET /api/health latency=24ms
+2026-10-23T10:17:45Z INFO  req=01065 method=GET /api/health latency=27ms
+2026-10-23T10:17:46Z INFO  req=01066 method=GET /api/health latency=37ms
+2026-10-23T10:17:47Z INFO  req=01067 method=GET /api/health latency=12ms
+2026-10-23T10:17:48Z INFO  req=01068 method=GET /api/health latency=15ms
+2026-10-23T10:17:49Z INFO  req=01069 method=GET /api/health latency=13ms
+2026-10-23T10:17:50Z INFO  req=01070 method=GET /api/health latency=6ms
+2026-10-23T10:17:51Z WARN  slow query shard=8 retryable=true (duplicate noise 1)
+2026-10-23T10:17:52Z INFO  req=01072 method=GET /api/health latency=12ms
+2026-10-23T10:17:53Z INFO  req=01073 method=GET /api/health latency=40ms
+2026-10-23T10:17:54Z INFO  req=01074 method=GET /api/health latency=13ms
+2026-10-23T10:17:55Z INFO  req=01075 method=GET /api/health latency=13ms
+2026-10-23T10:17:56Z INFO  req=01076 method=GET /api/health latency=34ms
+2026-10-23T10:17:57Z INFO  req=01077 method=GET /api/health latency=4ms
+2026-10-23T10:17:58Z INFO  req=01078 method=GET /api/health latency=23ms
+2026-10-23T10:17:59Z INFO  req=01079 method=GET /api/health latency=32ms
+2026-10-23T10:18:00Z INFO  req=01080 method=GET /api/health latency=27ms
+2026-10-23T10:18:01Z WARN  slow query shard=8 retryable=true (duplicate noise 1)
+2026-10-23T10:18:02Z INFO  req=01082 method=GET /api/health latency=18ms
+2026-10-23T10:18:03Z INFO  req=01083 method=GET /api/health latency=37ms
+2026-10-23T10:18:04Z WARN  slow query shard=6 retryable=true (duplicate noise 4)
+2026-10-23T10:18:05Z INFO  req=01085 method=GET /api/health latency=24ms
+2026-10-23T10:18:06Z INFO  req=01086 method=GET /api/health latency=1ms
+2026-10-23T10:18:07Z INFO  req=01087 method=GET /api/health latency=29ms
+2026-10-23T10:18:08Z INFO  req=01088 method=POST /api/login ok user=u_1088
+2026-10-23T10:18:09Z INFO  req=01089 method=GET /api/health latency=23ms
+2026-10-23T10:18:10Z INFO  req=01090 method=GET /api/health latency=21ms
+2026-10-23T10:18:11Z INFO  req=01091 method=GET /api/health latency=25ms
+2026-10-23T10:18:12Z INFO  req=01092 method=GET /api/health latency=4ms
+2026-10-23T10:18:13Z INFO  req=01093 method=GET /api/health latency=7ms
+2026-10-23T10:18:14Z INFO  req=01094 method=POST /api/login ok user=u_1094
+2026-10-23T10:18:15Z INFO  req=01095 method=GET /api/health latency=33ms
+2026-10-23T10:18:16Z INFO  req=01096 method=GET /api/health latency=35ms
+2026-10-23T10:18:17Z INFO  req=01097 method=GET /api/health latency=16ms
+2026-10-23T10:18:18Z INFO  req=01098 method=POST /api/login ok user=u_1098
+2026-10-23T10:18:19Z INFO  req=01099 method=GET /api/health latency=12ms
+2026-10-23T10:18:20Z INFO  req=01100 method=GET /api/health latency=20ms
+2026-10-23T10:18:21Z INFO  req=01101 method=GET /api/health latency=2ms
+2026-10-23T10:18:22Z INFO  req=01102 method=GET /api/health latency=13ms
+2026-10-23T10:18:23Z INFO  req=01103 method=GET /api/health latency=39ms
+2026-10-23T10:18:24Z INFO  req=01104 method=GET /api/health latency=30ms
+2026-10-23T10:18:25Z INFO  req=01105 method=GET /api/health latency=29ms
+2026-10-23T10:18:26Z INFO  req=01106 method=GET /api/health latency=7ms
+2026-10-23T10:18:27Z INFO  req=01107 method=GET /api/health latency=3ms
+2026-10-23T10:18:28Z INFO  req=01108 method=GET /api/health latency=30ms
+2026-10-23T10:18:29Z INFO  req=01109 method=GET /api/health latency=33ms
+2026-10-23T10:18:30Z INFO  req=01110 method=GET /api/health latency=8ms
+2026-10-23T10:18:31Z INFO  req=01111 method=GET /api/health latency=26ms
+2026-10-23T10:18:32Z WARN  slow query shard=4 retryable=true (duplicate noise 2)
+2026-10-23T10:18:33Z WARN  slow query shard=3 retryable=true (duplicate noise 3)
+2026-10-23T10:18:34Z INFO  req=01114 method=GET /api/health latency=30ms
+2026-10-23T10:18:35Z INFO  req=01115 method=GET /api/health latency=11ms
+2026-10-23T10:18:36Z INFO  req=01116 method=POST /api/login ok user=u_1116
+2026-10-23T10:18:37Z INFO  req=01117 method=GET /api/health latency=25ms
+2026-10-23T10:18:38Z INFO  req=01118 method=GET /api/health latency=39ms
+2026-10-23T10:18:39Z WARN  slow query shard=1 retryable=true (duplicate noise 4)
+2026-10-23T10:18:40Z INFO  req=01120 method=GET /api/health latency=4ms
+2026-10-23T10:18:41Z INFO  req=01121 method=GET /api/health latency=22ms
+2026-10-23T10:18:42Z INFO  req=01122 method=GET /api/health latency=22ms
+2026-10-23T10:18:43Z INFO  req=01123 method=GET /api/health latency=37ms
+2026-10-23T10:18:44Z WARN  slow query shard=6 retryable=true (duplicate noise 4)
+2026-10-23T10:18:45Z WARN  slow query shard=1 retryable=true (duplicate noise 0)
+2026-10-23T10:18:46Z INFO  req=01126 method=GET /api/health latency=10ms
+2026-10-23T10:18:47Z INFO  req=01127 method=POST /api/login ok user=u_1127
+2026-10-23T10:18:48Z INFO  req=01128 method=POST /api/login ok user=u_1128
+2026-10-23T10:18:49Z INFO  req=01129 method=GET /api/health latency=28ms
+2026-10-23T10:18:50Z INFO  req=01130 method=GET /api/health latency=1ms
+2026-10-23T10:18:51Z INFO  req=01131 method=GET /api/health latency=34ms
+2026-10-23T10:18:52Z INFO  req=01132 method=GET /api/health latency=21ms
+2026-10-23T10:18:53Z INFO  req=01133 method=GET /api/health latency=33ms
+2026-10-23T10:18:54Z INFO  req=01134 method=GET /api/health latency=15ms
+2026-10-23T10:18:55Z INFO  req=01135 method=GET /api/health latency=26ms
+2026-10-23T10:18:56Z INFO  req=01136 method=GET /api/health latency=30ms
+2026-10-23T10:18:57Z INFO  req=01137 method=GET /api/health latency=3ms
+2026-10-23T10:18:58Z INFO  req=01138 method=GET /api/health latency=40ms
+2026-10-23T10:18:59Z INFO  req=01139 method=GET /api/health latency=40ms
+2026-10-23T10:19:00Z INFO  req=01140 method=GET /api/health latency=35ms
+2026-10-23T10:19:01Z WARN  slow query shard=1 retryable=true (duplicate noise 1)
+2026-10-23T10:19:02Z INFO  req=01142 method=GET /api/health latency=17ms
+2026-10-23T10:19:03Z INFO  req=01143 method=GET /api/health latency=1ms
+2026-10-23T10:19:04Z INFO  req=01144 method=GET /api/health latency=3ms
+2026-10-23T10:19:05Z INFO  req=01145 method=GET /api/health latency=20ms
+2026-10-23T10:19:06Z INFO  req=01146 method=GET /api/health latency=11ms
+2026-10-23T10:19:07Z INFO  req=01147 method=GET /api/health latency=39ms
+2026-10-23T10:19:08Z INFO  req=01148 method=POST /api/login ok user=u_1148
+2026-10-23T10:19:09Z WARN  slow query shard=5 retryable=true (duplicate noise 4)
+2026-10-23T10:19:10Z INFO  req=01150 method=GET /api/health latency=38ms
+2026-10-23T10:19:11Z INFO  req=01151 method=GET /api/health latency=10ms
+2026-10-23T10:19:12Z INFO  req=01152 method=GET /api/health latency=33ms
+2026-10-23T10:19:13Z INFO  req=01153 method=GET /api/health latency=19ms
+2026-10-23T10:19:14Z WARN  slow query shard=5 retryable=true (duplicate noise 4)
+2026-10-23T10:19:15Z INFO  req=01155 method=GET /api/health latency=6ms
+2026-10-23T10:19:16Z INFO  req=01156 method=GET /api/health latency=19ms
+2026-10-23T10:19:17Z WARN  slow query shard=4 retryable=true (duplicate noise 2)
+2026-10-23T10:19:18Z INFO  req=01158 method=GET /api/health latency=13ms
+2026-10-23T10:19:19Z INFO  req=01159 method=GET /api/health latency=24ms
+2026-10-23T10:19:20Z INFO  req=01160 method=GET /api/health latency=36ms
+2026-10-23T10:19:21Z INFO  req=01161 method=GET /api/health latency=31ms
+2026-10-23T10:19:22Z INFO  req=01162 method=GET /api/health latency=20ms
+2026-10-23T10:19:23Z INFO  req=01163 method=GET /api/health latency=22ms
+2026-10-23T10:19:24Z INFO  req=01164 method=GET /api/health latency=33ms
+2026-10-23T10:19:25Z INFO  req=01165 method=GET /api/health latency=38ms
+2026-10-23T10:19:26Z INFO  req=01166 method=GET /api/health latency=23ms
+2026-10-23T10:19:27Z INFO  req=01167 method=GET /api/health latency=16ms
+2026-10-23T10:19:28Z INFO  req=01168 method=GET /api/health latency=21ms
+2026-10-23T10:19:29Z INFO  req=01169 method=GET /api/health latency=19ms
+2026-10-23T10:19:30Z WARN  slow query shard=4 retryable=true (duplicate noise 0)
+2026-10-23T10:19:31Z INFO  req=01171 method=GET /api/health latency=2ms
+2026-10-23T10:19:32Z INFO  req=01172 method=GET /api/health latency=5ms
+2026-10-23T10:19:33Z INFO  req=01173 method=GET /api/health latency=23ms
+2026-10-23T10:19:34Z INFO  req=01174 method=GET /api/health latency=4ms
+2026-10-23T10:19:35Z INFO  req=01175 method=GET /api/health latency=29ms
+2026-10-23T10:19:36Z INFO  req=01176 method=GET /api/health latency=7ms
+2026-10-23T10:19:37Z INFO  req=01177 method=GET /api/health latency=10ms
+2026-10-23T10:19:38Z INFO  req=01178 method=GET /api/health latency=23ms
+2026-10-23T10:19:39Z INFO  req=01179 method=GET /api/health latency=13ms
+2026-10-23T10:19:40Z INFO  req=01180 method=GET /api/health latency=18ms
+2026-10-23T10:19:41Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:19:42Z INFO  req=01182 method=GET /api/health latency=31ms
+2026-10-23T10:19:43Z INFO  req=01183 method=GET /api/health latency=9ms
+2026-10-23T10:19:44Z INFO  req=01184 method=GET /api/health latency=7ms
+2026-10-23T10:19:45Z INFO  req=01185 method=GET /api/health latency=36ms
+2026-10-23T10:19:46Z INFO  req=01186 method=GET /api/health latency=32ms
+2026-10-23T10:19:47Z INFO  req=01187 method=GET /api/health latency=37ms
+2026-10-23T10:19:48Z INFO  req=01188 method=GET /api/health latency=18ms
+2026-10-23T10:19:49Z WARN  slow query shard=2 retryable=true (duplicate noise 4)
+2026-10-23T10:19:50Z INFO  req=01190 method=GET /api/health latency=29ms
+2026-10-23T10:19:51Z INFO  req=01191 method=GET /api/health latency=19ms
+2026-10-23T10:19:52Z INFO  req=01192 method=GET /api/health latency=19ms
+2026-10-23T10:19:53Z INFO  req=01193 method=GET /api/health latency=34ms
+2026-10-23T10:19:54Z INFO  req=01194 method=GET /api/health latency=25ms
+2026-10-23T10:19:55Z INFO  req=01195 method=GET /api/health latency=1ms
+2026-10-23T10:19:56Z INFO  req=01196 method=GET /api/health latency=32ms
+2026-10-23T10:19:57Z INFO  req=01197 method=GET /api/health latency=20ms
+2026-10-23T10:19:58Z INFO  req=01198 method=GET /api/health latency=20ms
+2026-10-23T10:19:59Z WARN  slow query shard=7 retryable=true (duplicate noise 4)
+2026-10-23T10:20:00Z ERROR auth refresh-token race: duplicate token issued for user u_1200 (concurrent refresh)
+2026-10-23T10:20:01Z INFO  req=01201 method=GET /api/health latency=6ms
+2026-10-23T10:20:02Z WARN  slow query shard=6 retryable=true (duplicate noise 2)
+2026-10-23T10:20:03Z INFO  req=01203 method=GET /api/health latency=39ms
+2026-10-23T10:20:04Z WARN  slow query shard=6 retryable=true (duplicate noise 4)
+2026-10-23T10:20:05Z INFO  req=01205 method=GET /api/health latency=28ms
+2026-10-23T10:20:06Z WARN  slow query shard=1 retryable=true (duplicate noise 1)
+2026-10-23T10:20:07Z INFO  req=01207 method=GET /api/health latency=17ms
+2026-10-23T10:20:08Z INFO  req=01208 method=GET /api/health latency=32ms
+2026-10-23T10:20:09Z INFO  req=01209 method=GET /api/health latency=35ms
+2026-10-23T10:20:10Z INFO  req=01210 method=GET /api/health latency=35ms
+2026-10-23T10:20:11Z INFO  req=01211 method=GET /api/health latency=28ms
+2026-10-23T10:20:12Z INFO  req=01212 method=GET /api/health latency=34ms
+2026-10-23T10:20:13Z INFO  req=01213 method=GET /api/health latency=28ms
+2026-10-23T10:20:14Z INFO  req=01214 method=GET /api/health latency=23ms
+2026-10-23T10:20:15Z INFO  req=01215 method=GET /api/health latency=23ms
+2026-10-23T10:20:16Z INFO  req=01216 method=GET /api/health latency=1ms
+2026-10-23T10:20:17Z INFO  req=01217 method=GET /api/health latency=34ms
+2026-10-23T10:20:18Z INFO  req=01218 method=GET /api/health latency=27ms
+2026-10-23T10:20:19Z INFO  req=01219 method=GET /api/health latency=26ms
+2026-10-23T10:20:20Z INFO  req=01220 method=GET /api/health latency=37ms
+2026-10-23T10:20:21Z INFO  req=01221 method=GET /api/health latency=13ms
+2026-10-23T10:20:22Z INFO  req=01222 method=POST /api/login ok user=u_1222
+2026-10-23T10:20:23Z INFO  req=01223 method=GET /api/health latency=29ms
+2026-10-23T10:20:24Z INFO  req=01224 method=GET /api/health latency=38ms
+2026-10-23T10:20:25Z INFO  req=01225 method=GET /api/health latency=34ms
+2026-10-23T10:20:26Z INFO  req=01226 method=GET /api/health latency=6ms
+2026-10-23T10:20:27Z INFO  req=01227 method=GET /api/health latency=21ms
+2026-10-23T10:20:28Z INFO  req=01228 method=GET /api/health latency=5ms
+2026-10-23T10:20:29Z WARN  slow query shard=3 retryable=true (duplicate noise 4)
+2026-10-23T10:20:30Z INFO  req=01230 method=GET /api/health latency=19ms
+2026-10-23T10:20:31Z INFO  req=01231 method=GET /api/health latency=33ms
+2026-10-23T10:20:32Z WARN  slow query shard=7 retryable=true (duplicate noise 2)
+2026-10-23T10:20:33Z INFO  req=01233 method=GET /api/health latency=34ms
+2026-10-23T10:20:34Z INFO  req=01234 method=GET /api/health latency=33ms
+2026-10-23T10:20:35Z INFO  req=01235 method=GET /api/health latency=13ms
+2026-10-23T10:20:36Z INFO  req=01236 method=GET /api/health latency=4ms
+2026-10-23T10:20:37Z INFO  req=01237 method=GET /api/health latency=39ms
+2026-10-23T10:20:38Z INFO  req=01238 method=GET /api/health latency=37ms
+2026-10-23T10:20:39Z INFO  req=01239 method=POST /api/login ok user=u_1239
+2026-10-23T10:20:40Z INFO  req=01240 method=GET /api/health latency=3ms
+2026-10-23T10:20:41Z INFO  req=01241 method=GET /api/health latency=1ms
+2026-10-23T10:20:42Z INFO  req=01242 method=GET /api/health latency=20ms
+2026-10-23T10:20:43Z INFO  req=01243 method=GET /api/health latency=36ms
+2026-10-23T10:20:44Z INFO  req=01244 method=GET /api/health latency=20ms
+2026-10-23T10:20:45Z INFO  req=01245 method=GET /api/health latency=7ms
+2026-10-23T10:20:46Z INFO  req=01246 method=GET /api/health latency=2ms
+2026-10-23T10:20:47Z INFO  req=01247 method=GET /api/health latency=32ms
+2026-10-23T10:20:48Z INFO  req=01248 method=GET /api/health latency=37ms
+2026-10-23T10:20:49Z INFO  req=01249 method=GET /api/health latency=35ms
+2026-10-23T10:20:50Z INFO  req=01250 method=GET /api/health latency=10ms
+2026-10-23T10:20:51Z INFO  req=01251 method=GET /api/health latency=27ms
+2026-10-23T10:20:52Z INFO  req=01252 method=GET /api/health latency=10ms
+2026-10-23T10:20:53Z INFO  req=01253 method=GET /api/health latency=33ms
+2026-10-23T10:20:54Z INFO  req=01254 method=GET /api/health latency=7ms
+2026-10-23T10:20:55Z INFO  req=01255 method=GET /api/health latency=34ms
+2026-10-23T10:20:56Z INFO  req=01256 method=GET /api/health latency=30ms
+2026-10-23T10:20:57Z INFO  req=01257 method=GET /api/health latency=4ms
+2026-10-23T10:20:58Z INFO  req=01258 method=GET /api/health latency=38ms
+2026-10-23T10:20:59Z INFO  req=01259 method=GET /api/health latency=16ms
+2026-10-23T10:21:00Z INFO  req=01260 method=GET /api/health latency=11ms
+2026-10-23T10:21:01Z INFO  req=01261 method=GET /api/health latency=7ms
+2026-10-23T10:21:02Z WARN  slow query shard=2 retryable=true (duplicate noise 2)
+2026-10-23T10:21:03Z INFO  req=01263 method=GET /api/health latency=29ms
+2026-10-23T10:21:04Z INFO  req=01264 method=GET /api/health latency=2ms
+2026-10-23T10:21:05Z INFO  req=01265 method=GET /api/health latency=26ms
+2026-10-23T10:21:06Z INFO  req=01266 method=GET /api/health latency=3ms
+2026-10-23T10:21:07Z INFO  req=01267 method=GET /api/health latency=40ms
+2026-10-23T10:21:08Z INFO  req=01268 method=GET /api/health latency=15ms
+2026-10-23T10:21:09Z INFO  req=01269 method=GET /api/health latency=38ms
+2026-10-23T10:21:10Z WARN  slow query shard=6 retryable=true (duplicate noise 0)
+2026-10-23T10:21:11Z INFO  req=01271 method=GET /api/health latency=30ms
+2026-10-23T10:21:12Z INFO  req=01272 method=GET /api/health latency=39ms
+2026-10-23T10:21:13Z INFO  req=01273 method=GET /api/health latency=32ms
+2026-10-23T10:21:14Z INFO  req=01274 method=POST /api/login ok user=u_1274
+2026-10-23T10:21:15Z INFO  req=01275 method=GET /api/health latency=25ms
+2026-10-23T10:21:16Z INFO  req=01276 method=GET /api/health latency=38ms
+2026-10-23T10:21:17Z INFO  req=01277 method=GET /api/health latency=20ms
+2026-10-23T10:21:18Z INFO  req=01278 method=GET /api/health latency=32ms
+2026-10-23T10:21:19Z INFO  req=01279 method=GET /api/health latency=16ms
+2026-10-23T10:21:20Z INFO  req=01280 method=GET /api/health latency=11ms
+2026-10-23T10:21:21Z INFO  req=01281 method=GET /api/health latency=12ms
+2026-10-23T10:21:22Z INFO  req=01282 method=GET /api/health latency=19ms
+2026-10-23T10:21:23Z INFO  req=01283 method=GET /api/health latency=24ms
+2026-10-23T10:21:24Z INFO  req=01284 method=GET /api/health latency=35ms
+2026-10-23T10:21:25Z WARN  slow query shard=6 retryable=true (duplicate noise 0)
+2026-10-23T10:21:26Z INFO  req=01286 method=GET /api/health latency=5ms
+2026-10-23T10:21:27Z INFO  req=01287 method=POST /api/login ok user=u_1287
+2026-10-23T10:21:28Z INFO  req=01288 method=GET /api/health latency=23ms
+2026-10-23T10:21:29Z INFO  req=01289 method=GET /api/health latency=25ms
+2026-10-23T10:21:30Z INFO  req=01290 method=GET /api/health latency=19ms
+2026-10-23T10:21:31Z INFO  req=01291 method=GET /api/health latency=28ms
+2026-10-23T10:21:32Z INFO  req=01292 method=GET /api/health latency=2ms
+2026-10-23T10:21:33Z INFO  req=01293 method=GET /api/health latency=10ms
+2026-10-23T10:21:34Z INFO  req=01294 method=GET /api/health latency=9ms
+2026-10-23T10:21:35Z INFO  req=01295 method=GET /api/health latency=18ms
+2026-10-23T10:21:36Z INFO  req=01296 method=GET /api/health latency=9ms
+2026-10-23T10:21:37Z INFO  req=01297 method=GET /api/health latency=30ms
+2026-10-23T10:21:38Z WARN  slow query shard=4 retryable=true (duplicate noise 3)
+2026-10-23T10:21:39Z INFO  req=01299 method=GET /api/health latency=23ms
+2026-10-23T10:21:40Z INFO  req=01300 method=GET /api/health latency=26ms
+2026-10-23T10:21:41Z INFO  req=01301 method=GET /api/health latency=38ms
+2026-10-23T10:21:42Z INFO  req=01302 method=GET /api/health latency=31ms
+2026-10-23T10:21:43Z INFO  req=01303 method=GET /api/health latency=15ms
+2026-10-23T10:21:44Z WARN  slow query shard=3 retryable=true (duplicate noise 4)
+2026-10-23T10:21:45Z INFO  req=01305 method=POST /api/login ok user=u_1305
+2026-10-23T10:21:46Z INFO  req=01306 method=POST /api/login ok user=u_1306
+2026-10-23T10:21:47Z INFO  req=01307 method=GET /api/health latency=29ms
+2026-10-23T10:21:48Z INFO  req=01308 method=GET /api/health latency=24ms
+2026-10-23T10:21:49Z INFO  req=01309 method=GET /api/health latency=26ms
+2026-10-23T10:21:50Z INFO  req=01310 method=GET /api/health latency=14ms
+2026-10-23T10:21:51Z INFO  req=01311 method=GET /api/health latency=8ms
+2026-10-23T10:21:52Z INFO  req=01312 method=GET /api/health latency=6ms
+2026-10-23T10:21:53Z INFO  req=01313 method=GET /api/health latency=18ms
+2026-10-23T10:21:54Z INFO  req=01314 method=GET /api/health latency=25ms
+2026-10-23T10:21:55Z INFO  req=01315 method=GET /api/health latency=37ms
+2026-10-23T10:21:56Z INFO  req=01316 method=GET /api/health latency=1ms
+2026-10-23T10:21:57Z INFO  req=01317 method=GET /api/health latency=6ms
+2026-10-23T10:21:58Z INFO  req=01318 method=GET /api/health latency=15ms
+2026-10-23T10:21:59Z INFO  req=01319 method=GET /api/health latency=7ms
+2026-10-23T10:22:00Z INFO  req=01320 method=GET /api/health latency=24ms
+2026-10-23T10:22:01Z WARN  slow query shard=5 retryable=true (duplicate noise 1)
+2026-10-23T10:22:02Z INFO  req=01322 method=GET /api/health latency=20ms
+2026-10-23T10:22:03Z INFO  req=01323 method=GET /api/health latency=19ms
+2026-10-23T10:22:04Z INFO  req=01324 method=GET /api/health latency=26ms
+2026-10-23T10:22:05Z INFO  req=01325 method=GET /api/health latency=26ms
+2026-10-23T10:22:06Z WARN  slow query shard=8 retryable=true (duplicate noise 1)
+2026-10-23T10:22:07Z INFO  req=01327 method=GET /api/health latency=9ms
+2026-10-23T10:22:08Z INFO  req=01328 method=POST /api/login ok user=u_1328
+2026-10-23T10:22:09Z INFO  req=01329 method=GET /api/health latency=24ms
+2026-10-23T10:22:10Z INFO  req=01330 method=GET /api/health latency=23ms
+2026-10-23T10:22:11Z WARN  slow query shard=1 retryable=true (duplicate noise 1)
+2026-10-23T10:22:12Z INFO  req=01332 method=GET /api/health latency=30ms
+2026-10-23T10:22:13Z INFO  req=01333 method=GET /api/health latency=26ms
+2026-10-23T10:22:14Z INFO  req=01334 method=GET /api/health latency=7ms
+2026-10-23T10:22:15Z INFO  req=01335 method=GET /api/health latency=8ms
+2026-10-23T10:22:16Z INFO  req=01336 method=GET /api/health latency=39ms
+2026-10-23T10:22:17Z INFO  req=01337 method=GET /api/health latency=3ms
+2026-10-23T10:22:18Z INFO  req=01338 method=GET /api/health latency=39ms
+2026-10-23T10:22:19Z INFO  req=01339 method=GET /api/health latency=13ms
+2026-10-23T10:22:20Z INFO  req=01340 method=GET /api/health latency=10ms
+2026-10-23T10:22:21Z INFO  req=01341 method=GET /api/health latency=3ms
+2026-10-23T10:22:22Z INFO  req=01342 method=GET /api/health latency=12ms
+2026-10-23T10:22:23Z INFO  req=01343 method=GET /api/health latency=15ms
+2026-10-23T10:22:24Z INFO  req=01344 method=GET /api/health latency=34ms
+2026-10-23T10:22:25Z INFO  req=01345 method=GET /api/health latency=28ms
+2026-10-23T10:22:26Z INFO  req=01346 method=GET /api/health latency=37ms
+2026-10-23T10:22:27Z INFO  req=01347 method=GET /api/health latency=1ms
+2026-10-23T10:22:28Z INFO  req=01348 method=GET /api/health latency=19ms
+2026-10-23T10:22:29Z WARN  slow query shard=1 retryable=true (duplicate noise 4)
+2026-10-23T10:22:30Z INFO  req=01350 method=POST /api/login ok user=u_1350
+2026-10-23T10:22:31Z INFO  req=01351 method=GET /api/health latency=3ms
+2026-10-23T10:22:32Z INFO  req=01352 method=GET /api/health latency=14ms
+2026-10-23T10:22:33Z INFO  req=01353 method=GET /api/health latency=23ms
+2026-10-23T10:22:34Z INFO  req=01354 method=GET /api/health latency=6ms
+2026-10-23T10:22:35Z INFO  req=01355 method=GET /api/health latency=26ms
+2026-10-23T10:22:36Z INFO  req=01356 method=POST /api/login ok user=u_1356
+2026-10-23T10:22:37Z INFO  req=01357 method=GET /api/health latency=15ms
+2026-10-23T10:22:38Z INFO  req=01358 method=GET /api/health latency=6ms
+2026-10-23T10:22:39Z INFO  req=01359 method=GET /api/health latency=28ms
+2026-10-23T10:22:40Z INFO  req=01360 method=GET /api/health latency=22ms
+2026-10-23T10:22:41Z INFO  req=01361 method=GET /api/health latency=29ms
+2026-10-23T10:22:42Z INFO  req=01362 method=GET /api/health latency=14ms
+2026-10-23T10:22:43Z INFO  req=01363 method=GET /api/health latency=33ms
+2026-10-23T10:22:44Z WARN  slow query shard=3 retryable=true (duplicate noise 4)
+2026-10-23T10:22:45Z INFO  req=01365 method=GET /api/health latency=13ms
+2026-10-23T10:22:46Z INFO  req=01366 method=GET /api/health latency=36ms
+2026-10-23T10:22:47Z INFO  req=01367 method=GET /api/health latency=35ms
+2026-10-23T10:22:48Z INFO  req=01368 method=GET /api/health latency=16ms
+2026-10-23T10:22:49Z INFO  req=01369 method=GET /api/health latency=16ms
+2026-10-23T10:22:50Z INFO  req=01370 method=POST /api/login ok user=u_1370
+2026-10-23T10:22:51Z INFO  req=01371 method=GET /api/health latency=23ms
+2026-10-23T10:22:52Z INFO  req=01372 method=GET /api/health latency=13ms
+2026-10-23T10:22:53Z INFO  req=01373 method=GET /api/health latency=9ms
+2026-10-23T10:22:54Z INFO  req=01374 method=GET /api/health latency=32ms
+2026-10-23T10:22:55Z INFO  req=01375 method=GET /api/health latency=16ms
+2026-10-23T10:22:56Z INFO  req=01376 method=GET /api/health latency=1ms
+2026-10-23T10:22:57Z INFO  req=01377 method=GET /api/health latency=29ms
+2026-10-23T10:22:58Z INFO  req=01378 method=GET /api/health latency=23ms
+2026-10-23T10:22:59Z INFO  req=01379 method=GET /api/health latency=9ms
+2026-10-23T10:23:00Z WARN  slow query shard=3 retryable=true (duplicate noise 0)
+2026-10-23T10:23:01Z INFO  req=01381 method=GET /api/health latency=16ms
+2026-10-23T10:23:02Z INFO  req=01382 method=GET /api/health latency=8ms
+2026-10-23T10:23:03Z INFO  req=01383 method=GET /api/health latency=11ms
+2026-10-23T10:23:04Z INFO  req=01384 method=GET /api/health latency=10ms
+2026-10-23T10:23:05Z INFO  req=01385 method=GET /api/health latency=30ms
+2026-10-23T10:23:06Z WARN  slow query shard=7 retryable=true (duplicate noise 1)
+2026-10-23T10:23:07Z WARN  slow query shard=2 retryable=true (duplicate noise 2)
+2026-10-23T10:23:08Z INFO  req=01388 method=GET /api/health latency=1ms
+2026-10-23T10:23:09Z INFO  req=01389 method=GET /api/health latency=14ms
+2026-10-23T10:23:10Z INFO  req=01390 method=GET /api/health latency=18ms
+2026-10-23T10:23:11Z INFO  req=01391 method=GET /api/health latency=8ms
+2026-10-23T10:23:12Z INFO  req=01392 method=GET /api/health latency=29ms
+2026-10-23T10:23:13Z INFO  req=01393 method=POST /api/login ok user=u_1393
+2026-10-23T10:23:14Z INFO  req=01394 method=GET /api/health latency=29ms
+2026-10-23T10:23:15Z INFO  req=01395 method=GET /api/health latency=24ms
+2026-10-23T10:23:16Z INFO  req=01396 method=GET /api/health latency=36ms
+2026-10-23T10:23:17Z INFO  req=01397 method=GET /api/health latency=1ms
+2026-10-23T10:23:18Z INFO  req=01398 method=GET /api/health latency=32ms
+2026-10-23T10:23:19Z INFO  req=01399 method=GET /api/health latency=22ms
+2026-10-23T10:23:20Z INFO  req=01400 method=POST /api/login ok user=u_1400
+2026-10-23T10:23:21Z INFO  req=01401 method=GET /api/health latency=7ms
+2026-10-23T10:23:22Z INFO  req=01402 method=GET /api/health latency=28ms
+2026-10-23T10:23:23Z INFO  req=01403 method=GET /api/health latency=35ms
+2026-10-23T10:23:24Z INFO  req=01404 method=GET /api/health latency=23ms
+2026-10-23T10:23:25Z WARN  slow query shard=5 retryable=true (duplicate noise 0)
+2026-10-23T10:23:26Z INFO  req=01406 method=GET /api/health latency=17ms
+2026-10-23T10:23:27Z INFO  req=01407 method=GET /api/health latency=6ms
+2026-10-23T10:23:28Z INFO  req=01408 method=GET /api/health latency=2ms
+2026-10-23T10:23:29Z INFO  req=01409 method=GET /api/health latency=26ms
+2026-10-23T10:23:30Z WARN  slow query shard=5 retryable=true (duplicate noise 0)
+2026-10-23T10:23:31Z INFO  req=01411 method=GET /api/health latency=34ms
+2026-10-23T10:23:32Z WARN  slow query shard=3 retryable=true (duplicate noise 2)
+2026-10-23T10:23:33Z INFO  req=01413 method=GET /api/health latency=20ms
+2026-10-23T10:23:34Z INFO  req=01414 method=GET /api/health latency=21ms
+2026-10-23T10:23:35Z INFO  req=01415 method=GET /api/health latency=23ms
+2026-10-23T10:23:36Z INFO  req=01416 method=GET /api/health latency=24ms
+2026-10-23T10:23:37Z INFO  req=01417 method=GET /api/health latency=24ms
+2026-10-23T10:23:38Z WARN  slow query shard=5 retryable=true (duplicate noise 3)
+2026-10-23T10:23:39Z INFO  req=01419 method=GET /api/health latency=3ms
+2026-10-23T10:23:40Z INFO  req=01420 method=GET /api/health latency=26ms
+2026-10-23T10:23:41Z WARN  slow query shard=4 retryable=true (duplicate noise 1)
+2026-10-23T10:23:42Z INFO  req=01422 method=GET /api/health latency=32ms
+2026-10-23T10:23:43Z INFO  req=01423 method=GET /api/health latency=20ms
+2026-10-23T10:23:44Z INFO  req=01424 method=GET /api/health latency=6ms
+2026-10-23T10:23:45Z INFO  req=01425 method=GET /api/health latency=15ms
+2026-10-23T10:23:46Z INFO  req=01426 method=GET /api/health latency=29ms
+2026-10-23T10:23:47Z INFO  req=01427 method=GET /api/health latency=26ms
+2026-10-23T10:23:48Z INFO  req=01428 method=GET /api/health latency=3ms
+2026-10-23T10:23:49Z WARN  slow query shard=8 retryable=true (duplicate noise 4)
+2026-10-23T10:23:50Z INFO  req=01430 method=GET /api/health latency=24ms
+2026-10-23T10:23:51Z INFO  req=01431 method=GET /api/health latency=40ms
+2026-10-23T10:23:52Z WARN  slow query shard=7 retryable=true (duplicate noise 2)
+2026-10-23T10:23:53Z INFO  req=01433 method=GET /api/health latency=5ms
+2026-10-23T10:23:54Z INFO  req=01434 method=GET /api/health latency=33ms
+2026-10-23T10:23:55Z INFO  req=01435 method=GET /api/health latency=22ms
+2026-10-23T10:23:56Z INFO  req=01436 method=GET /api/health latency=1ms
+2026-10-23T10:23:57Z INFO  req=01437 method=GET /api/health latency=12ms
+2026-10-23T10:23:58Z WARN  slow query shard=3 retryable=true (duplicate noise 3)
+2026-10-23T10:23:59Z INFO  req=01439 method=GET /api/health latency=1ms
+2026-10-23T10:24:00Z INFO  req=01440 method=GET /api/health latency=37ms
+2026-10-23T10:24:01Z INFO  req=01441 method=GET /api/health latency=37ms
+2026-10-23T10:24:02Z INFO  req=01442 method=GET /api/health latency=6ms
+2026-10-23T10:24:03Z INFO  req=01443 method=GET /api/health latency=34ms
+2026-10-23T10:24:04Z INFO  req=01444 method=GET /api/health latency=35ms
+2026-10-23T10:24:05Z WARN  slow query shard=3 retryable=true (duplicate noise 0)
+2026-10-23T10:24:06Z INFO  req=01446 method=POST /api/login ok user=u_1446
+2026-10-23T10:24:07Z INFO  req=01447 method=POST /api/login ok user=u_1447
+2026-10-23T10:24:08Z INFO  req=01448 method=GET /api/health latency=4ms
+2026-10-23T10:24:09Z INFO  req=01449 method=GET /api/health latency=22ms
+2026-10-23T10:24:10Z INFO  req=01450 method=GET /api/health latency=20ms
+2026-10-23T10:24:11Z INFO  req=01451 method=GET /api/health latency=27ms
+2026-10-23T10:24:12Z INFO  req=01452 method=POST /api/login ok user=u_1452
+2026-10-23T10:24:13Z INFO  req=01453 method=GET /api/health latency=9ms
+2026-10-23T10:24:14Z INFO  req=01454 method=GET /api/health latency=22ms
+2026-10-23T10:24:15Z INFO  req=01455 method=GET /api/health latency=2ms
+2026-10-23T10:24:16Z WARN  slow query shard=4 retryable=true (duplicate noise 1)
+2026-10-23T10:24:17Z INFO  req=01457 method=GET /api/health latency=29ms
+2026-10-23T10:24:18Z INFO  req=01458 method=GET /api/health latency=10ms
+2026-10-23T10:24:19Z INFO  req=01459 method=GET /api/health latency=24ms
+2026-10-23T10:24:20Z INFO  req=01460 method=GET /api/health latency=27ms
+2026-10-23T10:24:21Z INFO  req=01461 method=GET /api/health latency=16ms
+2026-10-23T10:24:22Z INFO  req=01462 method=GET /api/health latency=26ms
+2026-10-23T10:24:23Z INFO  req=01463 method=GET /api/health latency=15ms
+2026-10-23T10:24:24Z INFO  req=01464 method=GET /api/health latency=13ms
+2026-10-23T10:24:25Z INFO  req=01465 method=GET /api/health latency=8ms
+2026-10-23T10:24:26Z INFO  req=01466 method=GET /api/health latency=17ms
+2026-10-23T10:24:27Z INFO  req=01467 method=GET /api/health latency=13ms
+2026-10-23T10:24:28Z INFO  req=01468 method=GET /api/health latency=17ms
+2026-10-23T10:24:29Z INFO  req=01469 method=GET /api/health latency=15ms
+2026-10-23T10:24:30Z INFO  req=01470 method=GET /api/health latency=15ms
+2026-10-23T10:24:31Z INFO  req=01471 method=GET /api/health latency=8ms
+2026-10-23T10:24:32Z INFO  req=01472 method=GET /api/health latency=38ms
+2026-10-23T10:24:33Z INFO  req=01473 method=GET /api/health latency=27ms
+2026-10-23T10:24:34Z INFO  req=01474 method=GET /api/health latency=29ms
+2026-10-23T10:24:35Z INFO  req=01475 method=GET /api/health latency=33ms
+2026-10-23T10:24:36Z INFO  req=01476 method=GET /api/health latency=8ms
+2026-10-23T10:24:37Z INFO  req=01477 method=GET /api/health latency=33ms
+2026-10-23T10:24:38Z INFO  req=01478 method=GET /api/health latency=26ms
+2026-10-23T10:24:39Z INFO  req=01479 method=GET /api/health latency=13ms
+2026-10-23T10:24:40Z INFO  req=01480 method=GET /api/health latency=6ms
+2026-10-23T10:24:41Z INFO  req=01481 method=GET /api/health latency=40ms
+2026-10-23T10:24:42Z INFO  req=01482 method=GET /api/health latency=16ms
+2026-10-23T10:24:43Z INFO  req=01483 method=GET /api/health latency=3ms
+2026-10-23T10:24:44Z INFO  req=01484 method=GET /api/health latency=39ms
+2026-10-23T10:24:45Z INFO  req=01485 method=POST /api/login ok user=u_1485
+2026-10-23T10:24:46Z INFO  req=01486 method=GET /api/health latency=8ms
+2026-10-23T10:24:47Z INFO  req=01487 method=GET /api/health latency=28ms
+2026-10-23T10:24:48Z WARN  slow query shard=2 retryable=true (duplicate noise 3)
+2026-10-23T10:24:49Z INFO  req=01489 method=GET /api/health latency=13ms
+2026-10-23T10:24:50Z INFO  req=01490 method=GET /api/health latency=23ms
+2026-10-23T10:24:51Z INFO  req=01491 method=GET /api/health latency=22ms
+2026-10-23T10:24:52Z WARN  slow query shard=1 retryable=true (duplicate noise 2)
+2026-10-23T10:24:53Z WARN  slow query shard=2 retryable=true (duplicate noise 3)
+2026-10-23T10:24:54Z INFO  req=01494 method=GET /api/health latency=33ms
+2026-10-23T10:24:55Z INFO  req=01495 method=GET /api/health latency=23ms
+2026-10-23T10:24:56Z INFO  req=01496 method=GET /api/health latency=3ms
+2026-10-23T10:24:57Z WARN  slow query shard=6 retryable=true (duplicate noise 2)
+2026-10-23T10:24:58Z INFO  req=01498 method=GET /api/health latency=36ms
+2026-10-23T10:24:59Z INFO  req=01499 method=GET /api/health latency=39ms
+2026-10-23T10:25:00Z INFO  req=01500 method=GET /api/health latency=16ms
+2026-10-23T10:25:01Z INFO  req=01501 method=GET /api/health latency=13ms
+2026-10-23T10:25:02Z INFO  req=01502 method=GET /api/health latency=2ms
+2026-10-23T10:25:03Z WARN  slow query shard=8 retryable=true (duplicate noise 3)
+2026-10-23T10:25:04Z INFO  req=01504 method=GET /api/health latency=2ms
+2026-10-23T10:25:05Z INFO  req=01505 method=GET /api/health latency=5ms
+2026-10-23T10:25:06Z WARN  slow query shard=3 retryable=true (duplicate noise 1)
+2026-10-23T10:25:07Z INFO  req=01507 method=GET /api/health latency=19ms
+2026-10-23T10:25:08Z WARN  slow query shard=7 retryable=true (duplicate noise 3)
+2026-10-23T10:25:09Z WARN  slow query shard=5 retryable=true (duplicate noise 4)
+2026-10-23T10:25:10Z INFO  req=01510 method=GET /api/health latency=18ms
+2026-10-23T10:25:11Z INFO  req=01511 method=POST /api/login ok user=u_1511
+2026-10-23T10:25:12Z INFO  req=01512 method=GET /api/health latency=22ms
+2026-10-23T10:25:13Z INFO  req=01513 method=POST /api/login ok user=u_1513
+2026-10-23T10:25:14Z INFO  req=01514 method=GET /api/health latency=31ms
+2026-10-23T10:25:15Z WARN  slow query shard=1 retryable=true (duplicate noise 0)
+2026-10-23T10:25:16Z INFO  req=01516 method=GET /api/health latency=40ms
+2026-10-23T10:25:17Z WARN  slow query shard=7 retryable=true (duplicate noise 2)
+2026-10-23T10:25:18Z WARN  slow query shard=3 retryable=true (duplicate noise 3)
+2026-10-23T10:25:19Z INFO  req=01519 method=GET /api/health latency=29ms
+2026-10-23T10:25:20Z INFO  req=01520 method=GET /api/health latency=40ms
+2026-10-23T10:25:21Z INFO  req=01521 method=GET /api/health latency=24ms
+2026-10-23T10:25:22Z INFO  req=01522 method=GET /api/health latency=14ms
+2026-10-23T10:25:23Z INFO  req=01523 method=GET /api/health latency=9ms
+2026-10-23T10:25:24Z INFO  req=01524 method=GET /api/health latency=3ms
+2026-10-23T10:25:25Z INFO  req=01525 method=GET /api/health latency=24ms
+2026-10-23T10:25:26Z INFO  req=01526 method=GET /api/health latency=22ms
+2026-10-23T10:25:27Z INFO  req=01527 method=GET /api/health latency=25ms
+2026-10-23T10:25:28Z INFO  req=01528 method=POST /api/login ok user=u_1528
+2026-10-23T10:25:29Z INFO  req=01529 method=GET /api/health latency=22ms
+2026-10-23T10:25:30Z INFO  req=01530 method=GET /api/health latency=22ms
+2026-10-23T10:25:31Z INFO  req=01531 method=GET /api/health latency=16ms
+2026-10-23T10:25:32Z INFO  req=01532 method=GET /api/health latency=39ms
+2026-10-23T10:25:33Z INFO  req=01533 method=GET /api/health latency=10ms
+2026-10-23T10:25:34Z INFO  req=01534 method=GET /api/health latency=10ms
+2026-10-23T10:25:35Z INFO  req=01535 method=GET /api/health latency=18ms
+2026-10-23T10:25:36Z INFO  req=01536 method=GET /api/health latency=17ms
+2026-10-23T10:25:37Z INFO  req=01537 method=GET /api/health latency=37ms
+2026-10-23T10:25:38Z INFO  req=01538 method=GET /api/health latency=9ms
+2026-10-23T10:25:39Z INFO  req=01539 method=POST /api/login ok user=u_1539
+2026-10-23T10:25:40Z INFO  req=01540 method=GET /api/health latency=36ms
+2026-10-23T10:25:41Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:25:42Z WARN  slow query shard=7 retryable=true (duplicate noise 2)
+2026-10-23T10:25:43Z INFO  req=01543 method=GET /api/health latency=7ms
+2026-10-23T10:25:44Z INFO  req=01544 method=GET /api/health latency=19ms
+2026-10-23T10:25:45Z INFO  req=01545 method=GET /api/health latency=16ms
+2026-10-23T10:25:46Z WARN  slow query shard=3 retryable=true (duplicate noise 1)
+2026-10-23T10:25:47Z INFO  req=01547 method=GET /api/health latency=20ms
+2026-10-23T10:25:48Z INFO  req=01548 method=POST /api/login ok user=u_1548
+2026-10-23T10:25:49Z INFO  req=01549 method=GET /api/health latency=24ms
+2026-10-23T10:25:50Z INFO  req=01550 method=GET /api/health latency=16ms
+2026-10-23T10:25:51Z INFO  req=01551 method=GET /api/health latency=36ms
+2026-10-23T10:25:52Z INFO  req=01552 method=GET /api/health latency=22ms
+2026-10-23T10:25:53Z INFO  req=01553 method=GET /api/health latency=22ms
+2026-10-23T10:25:54Z INFO  req=01554 method=GET /api/health latency=31ms
+2026-10-23T10:25:55Z INFO  req=01555 method=GET /api/health latency=16ms
+2026-10-23T10:25:56Z WARN  slow query shard=6 retryable=true (duplicate noise 1)
+2026-10-23T10:25:57Z INFO  req=01557 method=GET /api/health latency=14ms
+2026-10-23T10:25:58Z INFO  req=01558 method=GET /api/health latency=30ms
+2026-10-23T10:25:59Z INFO  req=01559 method=GET /api/health latency=26ms
+2026-10-23T10:26:00Z INFO  req=01560 method=GET /api/health latency=20ms
+2026-10-23T10:26:01Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:26:02Z INFO  req=01562 method=GET /api/health latency=20ms
+2026-10-23T10:26:03Z INFO  req=01563 method=GET /api/health latency=37ms
+2026-10-23T10:26:04Z INFO  req=01564 method=GET /api/health latency=22ms
+2026-10-23T10:26:05Z INFO  req=01565 method=GET /api/health latency=13ms
+2026-10-23T10:26:06Z INFO  req=01566 method=GET /api/health latency=6ms
+2026-10-23T10:26:07Z INFO  req=01567 method=GET /api/health latency=20ms
+2026-10-23T10:26:08Z INFO  req=01568 method=GET /api/health latency=30ms
+2026-10-23T10:26:09Z INFO  req=01569 method=GET /api/health latency=28ms
+2026-10-23T10:26:10Z INFO  req=01570 method=GET /api/health latency=5ms
+2026-10-23T10:26:11Z WARN  slow query shard=6 retryable=true (duplicate noise 1)
+2026-10-23T10:26:12Z WARN  slow query shard=5 retryable=true (duplicate noise 2)
+2026-10-23T10:26:13Z WARN  slow query shard=1 retryable=true (duplicate noise 3)
+2026-10-23T10:26:14Z INFO  req=01574 method=GET /api/health latency=18ms
+2026-10-23T10:26:15Z INFO  req=01575 method=GET /api/health latency=2ms
+2026-10-23T10:26:16Z INFO  req=01576 method=GET /api/health latency=26ms
+2026-10-23T10:26:17Z INFO  req=01577 method=GET /api/health latency=39ms
+2026-10-23T10:26:18Z INFO  req=01578 method=GET /api/health latency=33ms
+2026-10-23T10:26:19Z INFO  req=01579 method=GET /api/health latency=13ms
+2026-10-23T10:26:20Z INFO  req=01580 method=GET /api/health latency=4ms
+2026-10-23T10:26:21Z INFO  req=01581 method=POST /api/login ok user=u_1581
+2026-10-23T10:26:22Z INFO  req=01582 method=GET /api/health latency=6ms
+2026-10-23T10:26:23Z INFO  req=01583 method=GET /api/health latency=37ms
+2026-10-23T10:26:24Z INFO  req=01584 method=GET /api/health latency=9ms
+2026-10-23T10:26:25Z INFO  req=01585 method=GET /api/health latency=18ms
+2026-10-23T10:26:26Z INFO  req=01586 method=GET /api/health latency=1ms
+2026-10-23T10:26:27Z INFO  req=01587 method=GET /api/health latency=2ms
+2026-10-23T10:26:28Z INFO  req=01588 method=GET /api/health latency=21ms
+2026-10-23T10:26:29Z WARN  slow query shard=1 retryable=true (duplicate noise 4)
+2026-10-23T10:26:30Z INFO  req=01590 method=GET /api/health latency=26ms
+2026-10-23T10:26:31Z INFO  req=01591 method=GET /api/health latency=22ms
+2026-10-23T10:26:32Z INFO  req=01592 method=GET /api/health latency=27ms
+2026-10-23T10:26:33Z INFO  req=01593 method=GET /api/health latency=6ms
+2026-10-23T10:26:34Z INFO  req=01594 method=GET /api/health latency=22ms
+2026-10-23T10:26:35Z INFO  req=01595 method=GET /api/health latency=39ms
+2026-10-23T10:26:36Z INFO  req=01596 method=GET /api/health latency=30ms
+2026-10-23T10:26:37Z WARN  slow query shard=1 retryable=true (duplicate noise 2)
+2026-10-23T10:26:38Z WARN  slow query shard=6 retryable=true (duplicate noise 3)
+2026-10-23T10:26:39Z INFO  req=01599 method=GET /api/health latency=40ms
+2026-10-23T10:26:40Z INFO  req=01600 method=GET /api/health latency=22ms
+2026-10-23T10:26:41Z INFO  req=01601 method=GET /api/health latency=2ms
+2026-10-23T10:26:42Z INFO  req=01602 method=GET /api/health latency=10ms
+2026-10-23T10:26:43Z INFO  req=01603 method=GET /api/health latency=6ms
+2026-10-23T10:26:44Z INFO  req=01604 method=GET /api/health latency=24ms
+2026-10-23T10:26:45Z INFO  req=01605 method=GET /api/health latency=35ms
+2026-10-23T10:26:46Z INFO  req=01606 method=GET /api/health latency=36ms
+2026-10-23T10:26:47Z INFO  req=01607 method=GET /api/health latency=39ms
+2026-10-23T10:26:48Z INFO  req=01608 method=GET /api/health latency=15ms
+2026-10-23T10:26:49Z INFO  req=01609 method=GET /api/health latency=17ms
+2026-10-23T10:26:50Z WARN  slow query shard=8 retryable=true (duplicate noise 0)
+2026-10-23T10:26:51Z INFO  req=01611 method=GET /api/health latency=20ms
+2026-10-23T10:26:52Z INFO  req=01612 method=GET /api/health latency=36ms
+2026-10-23T10:26:53Z INFO  req=01613 method=POST /api/login ok user=u_1613
+2026-10-23T10:26:54Z INFO  req=01614 method=GET /api/health latency=18ms
+2026-10-23T10:26:55Z INFO  req=01615 method=GET /api/health latency=34ms
+2026-10-23T10:26:56Z INFO  req=01616 method=POST /api/login ok user=u_1616
+2026-10-23T10:26:57Z INFO  req=01617 method=GET /api/health latency=1ms
+2026-10-23T10:26:58Z INFO  req=01618 method=GET /api/health latency=7ms
+2026-10-23T10:26:59Z INFO  req=01619 method=GET /api/health latency=24ms
+2026-10-23T10:27:00Z INFO  req=01620 method=GET /api/health latency=15ms
+2026-10-23T10:27:01Z INFO  req=01621 method=GET /api/health latency=6ms
+2026-10-23T10:27:02Z INFO  req=01622 method=POST /api/login ok user=u_1622
+2026-10-23T10:27:03Z INFO  req=01623 method=GET /api/health latency=8ms
+2026-10-23T10:27:04Z INFO  req=01624 method=GET /api/health latency=33ms
+2026-10-23T10:27:05Z INFO  req=01625 method=GET /api/health latency=12ms
+2026-10-23T10:27:06Z INFO  req=01626 method=GET /api/health latency=39ms
+2026-10-23T10:27:07Z INFO  req=01627 method=GET /api/health latency=10ms
+2026-10-23T10:27:08Z WARN  slow query shard=3 retryable=true (duplicate noise 3)
+2026-10-23T10:27:09Z INFO  req=01629 method=GET /api/health latency=23ms
+2026-10-23T10:27:10Z INFO  req=01630 method=GET /api/health latency=16ms
+2026-10-23T10:27:11Z INFO  req=01631 method=GET /api/health latency=32ms
+2026-10-23T10:27:12Z INFO  req=01632 method=GET /api/health latency=23ms
+2026-10-23T10:27:13Z WARN  slow query shard=7 retryable=true (duplicate noise 3)
+2026-10-23T10:27:14Z INFO  req=01634 method=GET /api/health latency=21ms
+2026-10-23T10:27:15Z INFO  req=01635 method=GET /api/health latency=2ms
+2026-10-23T10:27:16Z INFO  req=01636 method=GET /api/health latency=1ms
+2026-10-23T10:27:17Z INFO  req=01637 method=GET /api/health latency=26ms
+2026-10-23T10:27:18Z INFO  req=01638 method=GET /api/health latency=23ms
+2026-10-23T10:27:19Z INFO  req=01639 method=GET /api/health latency=37ms
+2026-10-23T10:27:20Z INFO  req=01640 method=GET /api/health latency=25ms
+2026-10-23T10:27:21Z INFO  req=01641 method=POST /api/login ok user=u_1641
+2026-10-23T10:27:22Z INFO  req=01642 method=GET /api/health latency=15ms
+2026-10-23T10:27:23Z INFO  req=01643 method=GET /api/health latency=2ms
+2026-10-23T10:27:24Z INFO  req=01644 method=GET /api/health latency=28ms
+2026-10-23T10:27:25Z INFO  req=01645 method=GET /api/health latency=23ms
+2026-10-23T10:27:26Z INFO  req=01646 method=GET /api/health latency=28ms
+2026-10-23T10:27:27Z INFO  req=01647 method=GET /api/health latency=20ms
+2026-10-23T10:27:28Z WARN  slow query shard=8 retryable=true (duplicate noise 3)
+2026-10-23T10:27:29Z INFO  req=01649 method=GET /api/health latency=37ms
+2026-10-23T10:27:30Z INFO  req=01650 method=GET /api/health latency=31ms
+2026-10-23T10:27:31Z WARN  slow query shard=5 retryable=true (duplicate noise 1)
+2026-10-23T10:27:32Z INFO  req=01652 method=POST /api/login ok user=u_1652
+2026-10-23T10:27:33Z INFO  req=01653 method=GET /api/health latency=20ms
+2026-10-23T10:27:34Z INFO  req=01654 method=GET /api/health latency=22ms
+2026-10-23T10:27:35Z INFO  req=01655 method=GET /api/health latency=16ms
+2026-10-23T10:27:36Z INFO  req=01656 method=GET /api/health latency=40ms
+2026-10-23T10:27:37Z INFO  req=01657 method=GET /api/health latency=29ms
+2026-10-23T10:27:38Z INFO  req=01658 method=GET /api/health latency=4ms
+2026-10-23T10:27:39Z WARN  slow query shard=4 retryable=true (duplicate noise 4)
+2026-10-23T10:27:40Z WARN  slow query shard=6 retryable=true (duplicate noise 0)
+2026-10-23T10:27:41Z INFO  req=01661 method=GET /api/health latency=29ms
+2026-10-23T10:27:42Z INFO  req=01662 method=GET /api/health latency=9ms
+2026-10-23T10:27:43Z INFO  req=01663 method=POST /api/login ok user=u_1663
+2026-10-23T10:27:44Z INFO  req=01664 method=GET /api/health latency=2ms
+2026-10-23T10:27:45Z WARN  slow query shard=3 retryable=true (duplicate noise 0)
+2026-10-23T10:27:46Z INFO  req=01666 method=POST /api/login ok user=u_1666
+2026-10-23T10:27:47Z INFO  req=01667 method=GET /api/health latency=20ms
+2026-10-23T10:27:48Z INFO  req=01668 method=GET /api/health latency=23ms
+2026-10-23T10:27:49Z INFO  req=01669 method=GET /api/health latency=11ms
+2026-10-23T10:27:50Z INFO  req=01670 method=GET /api/health latency=26ms
+2026-10-23T10:27:51Z INFO  req=01671 method=GET /api/health latency=22ms
+2026-10-23T10:27:52Z INFO  req=01672 method=GET /api/health latency=26ms
+2026-10-23T10:27:53Z WARN  slow query shard=1 retryable=true (duplicate noise 3)
+2026-10-23T10:27:54Z INFO  req=01674 method=GET /api/health latency=13ms
+2026-10-23T10:27:55Z INFO  req=01675 method=GET /api/health latency=1ms
+2026-10-23T10:27:56Z INFO  req=01676 method=GET /api/health latency=33ms
+2026-10-23T10:27:57Z INFO  req=01677 method=GET /api/health latency=37ms
+2026-10-23T10:27:58Z INFO  req=01678 method=GET /api/health latency=7ms
+2026-10-23T10:27:59Z INFO  req=01679 method=GET /api/health latency=4ms
+2026-10-23T10:28:00Z INFO  req=01680 method=POST /api/login ok user=u_1680
+2026-10-23T10:28:01Z INFO  req=01681 method=GET /api/health latency=8ms
+2026-10-23T10:28:02Z INFO  req=01682 method=GET /api/health latency=32ms
+2026-10-23T10:28:03Z INFO  req=01683 method=POST /api/login ok user=u_1683
+2026-10-23T10:28:04Z INFO  req=01684 method=GET /api/health latency=1ms
+2026-10-23T10:28:05Z INFO  req=01685 method=GET /api/health latency=35ms
+2026-10-23T10:28:06Z INFO  req=01686 method=GET /api/health latency=35ms
+2026-10-23T10:28:07Z INFO  req=01687 method=GET /api/health latency=8ms
+2026-10-23T10:28:08Z INFO  req=01688 method=GET /api/health latency=32ms
+2026-10-23T10:28:09Z INFO  req=01689 method=POST /api/login ok user=u_1689
+2026-10-23T10:28:10Z INFO  req=01690 method=GET /api/health latency=14ms
+2026-10-23T10:28:11Z WARN  slow query shard=4 retryable=true (duplicate noise 1)
+2026-10-23T10:28:12Z INFO  req=01692 method=GET /api/health latency=18ms
+2026-10-23T10:28:13Z INFO  req=01693 method=GET /api/health latency=1ms
+2026-10-23T10:28:14Z INFO  req=01694 method=GET /api/health latency=5ms
+2026-10-23T10:28:15Z INFO  req=01695 method=POST /api/login ok user=u_1695
+2026-10-23T10:28:16Z INFO  req=01696 method=GET /api/health latency=4ms
+2026-10-23T10:28:17Z INFO  req=01697 method=GET /api/health latency=36ms
+2026-10-23T10:28:18Z INFO  req=01698 method=POST /api/login ok user=u_1698
+2026-10-23T10:28:19Z INFO  req=01699 method=GET /api/health latency=21ms
+2026-10-23T10:28:20Z INFO  req=01700 method=GET /api/health latency=30ms
+2026-10-23T10:28:21Z INFO  req=01701 method=GET /api/health latency=36ms
+2026-10-23T10:28:22Z INFO  req=01702 method=GET /api/health latency=27ms
+2026-10-23T10:28:23Z INFO  req=01703 method=POST /api/login ok user=u_1703
+2026-10-23T10:28:24Z WARN  slow query shard=5 retryable=true (duplicate noise 4)
+2026-10-23T10:28:25Z INFO  req=01705 method=GET /api/health latency=21ms
+2026-10-23T10:28:26Z INFO  req=01706 method=GET /api/health latency=25ms
+2026-10-23T10:28:27Z INFO  req=01707 method=POST /api/login ok user=u_1707
+2026-10-23T10:28:28Z INFO  req=01708 method=GET /api/health latency=25ms
+2026-10-23T10:28:29Z WARN  slow query shard=3 retryable=true (duplicate noise 4)
+2026-10-23T10:28:30Z WARN  slow query shard=1 retryable=true (duplicate noise 0)
+2026-10-23T10:28:31Z INFO  req=01711 method=GET /api/health latency=33ms
+2026-10-23T10:28:32Z WARN  slow query shard=5 retryable=true (duplicate noise 2)
+2026-10-23T10:28:33Z INFO  req=01713 method=GET /api/health latency=25ms
+2026-10-23T10:28:34Z INFO  req=01714 method=POST /api/login ok user=u_1714
+2026-10-23T10:28:35Z WARN  slow query shard=2 retryable=true (duplicate noise 0)
+2026-10-23T10:28:36Z INFO  req=01716 method=GET /api/health latency=40ms
+2026-10-23T10:28:37Z INFO  req=01717 method=GET /api/health latency=4ms
+2026-10-23T10:28:38Z INFO  req=01718 method=GET /api/health latency=36ms
+2026-10-23T10:28:39Z INFO  req=01719 method=GET /api/health latency=29ms
+2026-10-23T10:28:40Z INFO  req=01720 method=GET /api/health latency=21ms
+2026-10-23T10:28:41Z INFO  req=01721 method=GET /api/health latency=37ms
+2026-10-23T10:28:42Z INFO  req=01722 method=GET /api/health latency=31ms
+2026-10-23T10:28:43Z INFO  req=01723 method=GET /api/health latency=38ms
+2026-10-23T10:28:44Z INFO  req=01724 method=GET /api/health latency=25ms
+2026-10-23T10:28:45Z INFO  req=01725 method=GET /api/health latency=25ms
+2026-10-23T10:28:46Z INFO  req=01726 method=GET /api/health latency=5ms
+2026-10-23T10:28:47Z INFO  req=01727 method=GET /api/health latency=34ms
+2026-10-23T10:28:48Z INFO  req=01728 method=GET /api/health latency=21ms
+2026-10-23T10:28:49Z INFO  req=01729 method=GET /api/health latency=35ms
+2026-10-23T10:28:50Z INFO  req=01730 method=GET /api/health latency=40ms
+2026-10-23T10:28:51Z INFO  req=01731 method=GET /api/health latency=17ms
+2026-10-23T10:28:52Z WARN  slow query shard=8 retryable=true (duplicate noise 2)
+2026-10-23T10:28:53Z WARN  slow query shard=6 retryable=true (duplicate noise 3)
+2026-10-23T10:28:54Z INFO  req=01734 method=GET /api/health latency=31ms
+2026-10-23T10:28:55Z INFO  req=01735 method=GET /api/health latency=10ms
+2026-10-23T10:28:56Z INFO  req=01736 method=GET /api/health latency=34ms
+2026-10-23T10:28:57Z INFO  req=01737 method=GET /api/health latency=14ms
+2026-10-23T10:28:58Z INFO  req=01738 method=GET /api/health latency=24ms
+2026-10-23T10:28:59Z INFO  req=01739 method=GET /api/health latency=12ms
+2026-10-23T10:29:00Z INFO  req=01740 method=GET /api/health latency=30ms
+2026-10-23T10:29:01Z INFO  req=01741 method=GET /api/health latency=3ms
+2026-10-23T10:29:02Z INFO  req=01742 method=GET /api/health latency=24ms
+2026-10-23T10:29:03Z WARN  slow query shard=7 retryable=true (duplicate noise 3)
+2026-10-23T10:29:04Z INFO  req=01744 method=GET /api/health latency=10ms
+2026-10-23T10:29:05Z INFO  req=01745 method=GET /api/health latency=25ms
+2026-10-23T10:29:06Z INFO  req=01746 method=GET /api/health latency=23ms
+2026-10-23T10:29:07Z INFO  req=01747 method=GET /api/health latency=34ms
+2026-10-23T10:29:08Z INFO  req=01748 method=GET /api/health latency=29ms
+2026-10-23T10:29:09Z INFO  req=01749 method=GET /api/health latency=18ms
+2026-10-23T10:29:10Z ERROR auth refresh-token race: duplicate token issued for user u_1750 (concurrent refresh)
+2026-10-23T10:29:11Z INFO  req=01751 method=POST /api/login ok user=u_1751
+2026-10-23T10:29:12Z INFO  req=01752 method=GET /api/health latency=29ms
+2026-10-23T10:29:13Z INFO  req=01753 method=GET /api/health latency=12ms
+2026-10-23T10:29:14Z INFO  req=01754 method=GET /api/health latency=10ms
+2026-10-23T10:29:15Z INFO  req=01755 method=GET /api/health latency=9ms
+2026-10-23T10:29:16Z INFO  req=01756 method=GET /api/health latency=34ms
+2026-10-23T10:29:17Z INFO  req=01757 method=GET /api/health latency=40ms
+2026-10-23T10:29:18Z INFO  req=01758 method=GET /api/health latency=22ms
+2026-10-23T10:29:19Z WARN  slow query shard=5 retryable=true (duplicate noise 4)
+2026-10-23T10:29:20Z INFO  req=01760 method=GET /api/health latency=13ms
+2026-10-23T10:29:21Z INFO  req=01761 method=GET /api/health latency=17ms
+2026-10-23T10:29:22Z INFO  req=01762 method=GET /api/health latency=12ms
+2026-10-23T10:29:23Z INFO  req=01763 method=GET /api/health latency=35ms
+2026-10-23T10:29:24Z INFO  req=01764 method=GET /api/health latency=21ms
+2026-10-23T10:29:25Z INFO  req=01765 method=GET /api/health latency=17ms
+2026-10-23T10:29:26Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:29:27Z INFO  req=01767 method=GET /api/health latency=32ms
+2026-10-23T10:29:28Z WARN  slow query shard=4 retryable=true (duplicate noise 3)
+2026-10-23T10:29:29Z INFO  req=01769 method=GET /api/health latency=19ms
+2026-10-23T10:29:30Z INFO  req=01770 method=GET /api/health latency=24ms
+2026-10-23T10:29:31Z WARN  slow query shard=8 retryable=true (duplicate noise 1)
+2026-10-23T10:29:32Z INFO  req=01772 method=GET /api/health latency=3ms
+2026-10-23T10:29:33Z INFO  req=01773 method=GET /api/health latency=19ms
+2026-10-23T10:29:34Z INFO  req=01774 method=POST /api/login ok user=u_1774
+2026-10-23T10:29:35Z INFO  req=01775 method=GET /api/health latency=39ms
+2026-10-23T10:29:36Z WARN  slow query shard=6 retryable=true (duplicate noise 1)
+2026-10-23T10:29:37Z INFO  req=01777 method=GET /api/health latency=38ms
+2026-10-23T10:29:38Z INFO  req=01778 method=GET /api/health latency=40ms
+2026-10-23T10:29:39Z INFO  req=01779 method=GET /api/health latency=38ms
+2026-10-23T10:29:40Z INFO  req=01780 method=GET /api/health latency=14ms
+2026-10-23T10:29:41Z INFO  req=01781 method=GET /api/health latency=5ms
+2026-10-23T10:29:42Z INFO  req=01782 method=GET /api/health latency=29ms
+2026-10-23T10:29:43Z INFO  req=01783 method=GET /api/health latency=34ms
+2026-10-23T10:29:44Z INFO  req=01784 method=GET /api/health latency=2ms
+2026-10-23T10:29:45Z INFO  req=01785 method=GET /api/health latency=37ms
+2026-10-23T10:29:46Z INFO  req=01786 method=GET /api/health latency=30ms
+2026-10-23T10:29:47Z INFO  req=01787 method=GET /api/health latency=28ms
+2026-10-23T10:29:48Z INFO  req=01788 method=GET /api/health latency=31ms
+2026-10-23T10:29:49Z INFO  req=01789 method=GET /api/health latency=5ms
+2026-10-23T10:29:50Z INFO  req=01790 method=GET /api/health latency=32ms
+2026-10-23T10:29:51Z INFO  req=01791 method=GET /api/health latency=1ms
+2026-10-23T10:29:52Z INFO  req=01792 method=GET /api/health latency=13ms
+2026-10-23T10:29:53Z INFO  req=01793 method=GET /api/health latency=3ms
+2026-10-23T10:29:54Z WARN  slow query shard=5 retryable=true (duplicate noise 4)
+2026-10-23T10:29:55Z INFO  req=01795 method=GET /api/health latency=25ms
+2026-10-23T10:29:56Z INFO  req=01796 method=GET /api/health latency=8ms
+2026-10-23T10:29:57Z INFO  req=01797 method=GET /api/health latency=5ms
+2026-10-23T10:29:58Z INFO  req=01798 method=GET /api/health latency=1ms
+2026-10-23T10:29:59Z INFO  req=01799 method=GET /api/health latency=6ms
+2026-10-23T10:30:00Z WARN  slow query shard=4 retryable=true (duplicate noise 0)
+2026-10-23T10:30:01Z INFO  req=01801 method=GET /api/health latency=4ms
+2026-10-23T10:30:02Z WARN  slow query shard=4 retryable=true (duplicate noise 2)
+2026-10-23T10:30:03Z INFO  req=01803 method=GET /api/health latency=31ms
+2026-10-23T10:30:04Z WARN  slow query shard=7 retryable=true (duplicate noise 4)
+2026-10-23T10:30:05Z WARN  slow query shard=3 retryable=true (duplicate noise 0)
+2026-10-23T10:30:06Z INFO  req=01806 method=POST /api/login ok user=u_1806
+2026-10-23T10:30:07Z WARN  slow query shard=3 retryable=true (duplicate noise 2)
+2026-10-23T10:30:08Z INFO  req=01808 method=GET /api/health latency=13ms
+2026-10-23T10:30:09Z INFO  req=01809 method=GET /api/health latency=1ms
+2026-10-23T10:30:10Z INFO  req=01810 method=GET /api/health latency=35ms
+2026-10-23T10:30:11Z INFO  req=01811 method=GET /api/health latency=17ms
+2026-10-23T10:30:12Z INFO  req=01812 method=GET /api/health latency=25ms
+2026-10-23T10:30:13Z INFO  req=01813 method=GET /api/health latency=20ms
+2026-10-23T10:30:14Z INFO  req=01814 method=GET /api/health latency=33ms
+2026-10-23T10:30:15Z WARN  slow query shard=1 retryable=true (duplicate noise 0)
+2026-10-23T10:30:16Z INFO  req=01816 method=GET /api/health latency=16ms
+2026-10-23T10:30:17Z WARN  slow query shard=7 retryable=true (duplicate noise 2)
+2026-10-23T10:30:18Z WARN  slow query shard=5 retryable=true (duplicate noise 3)
+2026-10-23T10:30:19Z INFO  req=01819 method=GET /api/health latency=9ms
+2026-10-23T10:30:20Z INFO  req=01820 method=GET /api/health latency=35ms
+2026-10-23T10:30:21Z INFO  req=01821 method=GET /api/health latency=30ms
+2026-10-23T10:30:22Z INFO  req=01822 method=GET /api/health latency=38ms
+2026-10-23T10:30:23Z INFO  req=01823 method=GET /api/health latency=22ms
+2026-10-23T10:30:24Z INFO  req=01824 method=GET /api/health latency=36ms
+2026-10-23T10:30:25Z INFO  req=01825 method=GET /api/health latency=21ms
+2026-10-23T10:30:26Z INFO  req=01826 method=GET /api/health latency=5ms
+2026-10-23T10:30:27Z INFO  req=01827 method=GET /api/health latency=37ms
+2026-10-23T10:30:28Z WARN  slow query shard=1 retryable=true (duplicate noise 3)
+2026-10-23T10:30:29Z INFO  req=01829 method=GET /api/health latency=29ms
+2026-10-23T10:30:30Z INFO  req=01830 method=GET /api/health latency=14ms
+2026-10-23T10:30:31Z WARN  slow query shard=8 retryable=true (duplicate noise 1)
+2026-10-23T10:30:32Z INFO  req=01832 method=GET /api/health latency=29ms
+2026-10-23T10:30:33Z INFO  req=01833 method=GET /api/health latency=14ms
+2026-10-23T10:30:34Z INFO  req=01834 method=GET /api/health latency=28ms
+2026-10-23T10:30:35Z WARN  slow query shard=2 retryable=true (duplicate noise 0)
+2026-10-23T10:30:36Z INFO  req=01836 method=GET /api/health latency=5ms
+2026-10-23T10:30:37Z WARN  slow query shard=8 retryable=true (duplicate noise 2)
+2026-10-23T10:30:38Z INFO  req=01838 method=GET /api/health latency=36ms
+2026-10-23T10:30:39Z INFO  req=01839 method=GET /api/health latency=11ms
+2026-10-23T10:30:40Z INFO  req=01840 method=GET /api/health latency=19ms
+2026-10-23T10:30:41Z WARN  slow query shard=3 retryable=true (duplicate noise 1)
+2026-10-23T10:30:42Z INFO  req=01842 method=GET /api/health latency=14ms
+2026-10-23T10:30:43Z INFO  req=01843 method=GET /api/health latency=30ms
+2026-10-23T10:30:44Z INFO  req=01844 method=GET /api/health latency=6ms
+2026-10-23T10:30:45Z INFO  req=01845 method=POST /api/login ok user=u_1845
+2026-10-23T10:30:46Z INFO  req=01846 method=GET /api/health latency=17ms
+2026-10-23T10:30:47Z INFO  req=01847 method=GET /api/health latency=29ms
+2026-10-23T10:30:48Z INFO  req=01848 method=GET /api/health latency=10ms
+2026-10-23T10:30:49Z WARN  slow query shard=3 retryable=true (duplicate noise 4)
+2026-10-23T10:30:50Z INFO  req=01850 method=GET /api/health latency=29ms
+2026-10-23T10:30:51Z INFO  req=01851 method=GET /api/health latency=15ms
+2026-10-23T10:30:52Z WARN  slow query shard=6 retryable=true (duplicate noise 2)
+2026-10-23T10:30:53Z INFO  req=01853 method=GET /api/health latency=10ms
+2026-10-23T10:30:54Z INFO  req=01854 method=GET /api/health latency=17ms
+2026-10-23T10:30:55Z INFO  req=01855 method=GET /api/health latency=14ms
+2026-10-23T10:30:56Z INFO  req=01856 method=GET /api/health latency=15ms
+2026-10-23T10:30:57Z INFO  req=01857 method=GET /api/health latency=3ms
+2026-10-23T10:30:58Z INFO  req=01858 method=GET /api/health latency=10ms
+2026-10-23T10:30:59Z INFO  req=01859 method=GET /api/health latency=15ms
+2026-10-23T10:31:00Z INFO  req=01860 method=GET /api/health latency=6ms
+2026-10-23T10:31:01Z INFO  req=01861 method=GET /api/health latency=10ms
+2026-10-23T10:31:02Z INFO  req=01862 method=GET /api/health latency=28ms
+2026-10-23T10:31:03Z INFO  req=01863 method=GET /api/health latency=26ms
+2026-10-23T10:31:04Z INFO  req=01864 method=GET /api/health latency=23ms
+2026-10-23T10:31:05Z INFO  req=01865 method=GET /api/health latency=14ms
+2026-10-23T10:31:06Z INFO  req=01866 method=POST /api/login ok user=u_1866
+2026-10-23T10:31:07Z INFO  req=01867 method=POST /api/login ok user=u_1867
+2026-10-23T10:31:08Z INFO  req=01868 method=GET /api/health latency=19ms
+2026-10-23T10:31:09Z INFO  req=01869 method=GET /api/health latency=2ms
+2026-10-23T10:31:10Z INFO  req=01870 method=GET /api/health latency=32ms
+2026-10-23T10:31:11Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:31:12Z INFO  req=01872 method=GET /api/health latency=18ms
+2026-10-23T10:31:13Z WARN  slow query shard=2 retryable=true (duplicate noise 3)
+2026-10-23T10:31:14Z INFO  req=01874 method=GET /api/health latency=31ms
+2026-10-23T10:31:15Z INFO  req=01875 method=GET /api/health latency=15ms
+2026-10-23T10:31:16Z INFO  req=01876 method=GET /api/health latency=20ms
+2026-10-23T10:31:17Z INFO  req=01877 method=GET /api/health latency=39ms
+2026-10-23T10:31:18Z INFO  req=01878 method=GET /api/health latency=1ms
+2026-10-23T10:31:19Z INFO  req=01879 method=GET /api/health latency=10ms
+2026-10-23T10:31:20Z INFO  req=01880 method=GET /api/health latency=4ms
+2026-10-23T10:31:21Z INFO  req=01881 method=GET /api/health latency=23ms
+2026-10-23T10:31:22Z INFO  req=01882 method=GET /api/health latency=16ms
+2026-10-23T10:31:23Z INFO  req=01883 method=GET /api/health latency=24ms
+2026-10-23T10:31:24Z INFO  req=01884 method=GET /api/health latency=20ms
+2026-10-23T10:31:25Z WARN  slow query shard=8 retryable=true (duplicate noise 0)
+2026-10-23T10:31:26Z INFO  req=01886 method=GET /api/health latency=36ms
+2026-10-23T10:31:27Z INFO  req=01887 method=GET /api/health latency=11ms
+2026-10-23T10:31:28Z INFO  req=01888 method=GET /api/health latency=30ms
+2026-10-23T10:31:29Z INFO  req=01889 method=GET /api/health latency=3ms
+2026-10-23T10:31:30Z INFO  req=01890 method=GET /api/health latency=7ms
+2026-10-23T10:31:31Z INFO  req=01891 method=GET /api/health latency=9ms
+2026-10-23T10:31:32Z INFO  req=01892 method=GET /api/health latency=23ms
+2026-10-23T10:31:33Z INFO  req=01893 method=GET /api/health latency=11ms
+2026-10-23T10:31:34Z INFO  req=01894 method=GET /api/health latency=6ms
+2026-10-23T10:31:35Z INFO  req=01895 method=GET /api/health latency=31ms
+2026-10-23T10:31:36Z INFO  req=01896 method=GET /api/health latency=17ms
+2026-10-23T10:31:37Z INFO  req=01897 method=GET /api/health latency=16ms
+2026-10-23T10:31:38Z INFO  req=01898 method=GET /api/health latency=32ms
+2026-10-23T10:31:39Z INFO  req=01899 method=GET /api/health latency=35ms
+2026-10-23T10:31:40Z INFO  req=01900 method=GET /api/health latency=30ms
+2026-10-23T10:31:41Z INFO  req=01901 method=GET /api/health latency=37ms
+2026-10-23T10:31:42Z INFO  req=01902 method=GET /api/health latency=33ms
+2026-10-23T10:31:43Z INFO  req=01903 method=GET /api/health latency=13ms
+2026-10-23T10:31:44Z INFO  req=01904 method=GET /api/health latency=36ms
+2026-10-23T10:31:45Z INFO  req=01905 method=GET /api/health latency=9ms
+2026-10-23T10:31:46Z WARN  slow query shard=4 retryable=true (duplicate noise 1)
+2026-10-23T10:31:47Z WARN  slow query shard=1 retryable=true (duplicate noise 2)
+2026-10-23T10:31:48Z INFO  req=01908 method=GET /api/health latency=4ms
+2026-10-23T10:31:49Z INFO  req=01909 method=GET /api/health latency=37ms
+2026-10-23T10:31:50Z INFO  req=01910 method=GET /api/health latency=15ms
+2026-10-23T10:31:51Z INFO  req=01911 method=GET /api/health latency=11ms
+2026-10-23T10:31:52Z INFO  req=01912 method=GET /api/health latency=17ms
+2026-10-23T10:31:53Z INFO  req=01913 method=POST /api/login ok user=u_1913
+2026-10-23T10:31:54Z INFO  req=01914 method=GET /api/health latency=40ms
+2026-10-23T10:31:55Z INFO  req=01915 method=GET /api/health latency=19ms
+2026-10-23T10:31:56Z INFO  req=01916 method=GET /api/health latency=8ms
+2026-10-23T10:31:57Z INFO  req=01917 method=GET /api/health latency=38ms
+2026-10-23T10:31:58Z INFO  req=01918 method=GET /api/health latency=16ms
+2026-10-23T10:31:59Z INFO  req=01919 method=GET /api/health latency=33ms
+2026-10-23T10:32:00Z INFO  req=01920 method=GET /api/health latency=4ms
+2026-10-23T10:32:01Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:32:02Z INFO  req=01922 method=GET /api/health latency=7ms
+2026-10-23T10:32:03Z INFO  req=01923 method=GET /api/health latency=40ms
+2026-10-23T10:32:04Z INFO  req=01924 method=GET /api/health latency=12ms
+2026-10-23T10:32:05Z WARN  slow query shard=6 retryable=true (duplicate noise 0)
+2026-10-23T10:32:06Z INFO  req=01926 method=GET /api/health latency=30ms
+2026-10-23T10:32:07Z INFO  req=01927 method=GET /api/health latency=12ms
+2026-10-23T10:32:08Z INFO  req=01928 method=GET /api/health latency=27ms
+2026-10-23T10:32:09Z INFO  req=01929 method=GET /api/health latency=3ms
+2026-10-23T10:32:10Z INFO  req=01930 method=GET /api/health latency=16ms
+2026-10-23T10:32:11Z INFO  req=01931 method=GET /api/health latency=33ms
+2026-10-23T10:32:12Z INFO  req=01932 method=GET /api/health latency=10ms
+2026-10-23T10:32:13Z INFO  req=01933 method=GET /api/health latency=9ms
+2026-10-23T10:32:14Z INFO  req=01934 method=GET /api/health latency=15ms
+2026-10-23T10:32:15Z INFO  req=01935 method=GET /api/health latency=5ms
+2026-10-23T10:32:16Z INFO  req=01936 method=POST /api/login ok user=u_1936
+2026-10-23T10:32:17Z INFO  req=01937 method=GET /api/health latency=31ms
+2026-10-23T10:32:18Z INFO  req=01938 method=GET /api/health latency=34ms
+2026-10-23T10:32:19Z INFO  req=01939 method=GET /api/health latency=5ms
+2026-10-23T10:32:20Z INFO  req=01940 method=GET /api/health latency=5ms
+2026-10-23T10:32:21Z INFO  req=01941 method=GET /api/health latency=4ms
+2026-10-23T10:32:22Z WARN  slow query shard=7 retryable=true (duplicate noise 2)
+2026-10-23T10:32:23Z INFO  req=01943 method=GET /api/health latency=23ms
+2026-10-23T10:32:24Z INFO  req=01944 method=GET /api/health latency=32ms
+2026-10-23T10:32:25Z INFO  req=01945 method=GET /api/health latency=32ms
+2026-10-23T10:32:26Z INFO  req=01946 method=GET /api/health latency=20ms
+2026-10-23T10:32:27Z WARN  slow query shard=8 retryable=true (duplicate noise 2)
+2026-10-23T10:32:28Z WARN  slow query shard=3 retryable=true (duplicate noise 3)
+2026-10-23T10:32:29Z INFO  req=01949 method=GET /api/health latency=33ms
+2026-10-23T10:32:30Z INFO  req=01950 method=GET /api/health latency=38ms
+2026-10-23T10:32:31Z INFO  req=01951 method=GET /api/health latency=8ms
+2026-10-23T10:32:32Z INFO  req=01952 method=GET /api/health latency=17ms
+2026-10-23T10:32:33Z INFO  req=01953 method=GET /api/health latency=15ms
+2026-10-23T10:32:34Z INFO  req=01954 method=GET /api/health latency=38ms
+2026-10-23T10:32:35Z INFO  req=01955 method=GET /api/health latency=16ms
+2026-10-23T10:32:36Z WARN  slow query shard=1 retryable=true (duplicate noise 1)
+2026-10-23T10:32:37Z INFO  req=01957 method=GET /api/health latency=26ms
+2026-10-23T10:32:38Z INFO  req=01958 method=GET /api/health latency=22ms
+2026-10-23T10:32:39Z WARN  slow query shard=7 retryable=true (duplicate noise 4)
+2026-10-23T10:32:40Z INFO  req=01960 method=POST /api/login ok user=u_1960
+2026-10-23T10:32:41Z INFO  req=01961 method=GET /api/health latency=22ms
+2026-10-23T10:32:42Z INFO  req=01962 method=GET /api/health latency=28ms
+2026-10-23T10:32:43Z INFO  req=01963 method=GET /api/health latency=1ms
+2026-10-23T10:32:44Z INFO  req=01964 method=GET /api/health latency=39ms
+2026-10-23T10:32:45Z INFO  req=01965 method=GET /api/health latency=8ms
+2026-10-23T10:32:46Z WARN  slow query shard=8 retryable=true (duplicate noise 1)
+2026-10-23T10:32:47Z INFO  req=01967 method=GET /api/health latency=39ms
+2026-10-23T10:32:48Z INFO  req=01968 method=GET /api/health latency=10ms
+2026-10-23T10:32:49Z INFO  req=01969 method=GET /api/health latency=14ms
+2026-10-23T10:32:50Z INFO  req=01970 method=GET /api/health latency=26ms
+2026-10-23T10:32:51Z WARN  slow query shard=1 retryable=true (duplicate noise 1)
+2026-10-23T10:32:52Z INFO  req=01972 method=GET /api/health latency=6ms
+2026-10-23T10:32:53Z INFO  req=01973 method=POST /api/login ok user=u_1973
+2026-10-23T10:32:54Z INFO  req=01974 method=GET /api/health latency=29ms
+2026-10-23T10:32:55Z INFO  req=01975 method=GET /api/health latency=35ms
+2026-10-23T10:32:56Z WARN  slow query shard=2 retryable=true (duplicate noise 1)
+2026-10-23T10:32:57Z INFO  req=01977 method=GET /api/health latency=3ms
+2026-10-23T10:32:58Z INFO  req=01978 method=GET /api/health latency=12ms
+2026-10-23T10:32:59Z INFO  req=01979 method=GET /api/health latency=22ms
+2026-10-23T10:33:00Z INFO  req=01980 method=POST /api/login ok user=u_1980
+2026-10-23T10:33:01Z INFO  req=01981 method=GET /api/health latency=15ms
+2026-10-23T10:33:02Z INFO  req=01982 method=GET /api/health latency=40ms
+2026-10-23T10:33:03Z WARN  slow query shard=7 retryable=true (duplicate noise 3)
+2026-10-23T10:33:04Z INFO  req=01984 method=GET /api/health latency=21ms
+2026-10-23T10:33:05Z INFO  req=01985 method=POST /api/login ok user=u_1985
+2026-10-23T10:33:06Z INFO  req=01986 method=GET /api/health latency=39ms
+2026-10-23T10:33:07Z INFO  req=01987 method=GET /api/health latency=11ms
+2026-10-23T10:33:08Z INFO  req=01988 method=GET /api/health latency=1ms
+2026-10-23T10:33:09Z INFO  req=01989 method=GET /api/health latency=12ms
+2026-10-23T10:33:10Z INFO  req=01990 method=GET /api/health latency=16ms
+2026-10-23T10:33:11Z INFO  req=01991 method=GET /api/health latency=17ms
+2026-10-23T10:33:12Z INFO  req=01992 method=GET /api/health latency=7ms
+2026-10-23T10:33:13Z INFO  req=01993 method=POST /api/login ok user=u_1993
+2026-10-23T10:33:14Z INFO  req=01994 method=GET /api/health latency=33ms
+2026-10-23T10:33:15Z INFO  req=01995 method=GET /api/health latency=9ms
+2026-10-23T10:33:16Z WARN  slow query shard=5 retryable=true (duplicate noise 1)
+2026-10-23T10:33:17Z INFO  req=01997 method=GET /api/health latency=5ms
+2026-10-23T10:33:18Z INFO  req=01998 method=GET /api/health latency=22ms
+2026-10-23T10:33:19Z INFO  req=01999 method=GET /api/health latency=19ms
+SUMMARY app.log: constraint: keep API backward compatible (login/refresh signatures unchanged)
